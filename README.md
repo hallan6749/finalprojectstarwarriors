@@ -1,5 +1,5 @@
 # Data Science Woz U Course
-# finalprojectstarwarriors
+# Final Project Star Warriors
 
-# Teammates: Tameka Gillett, Talia Hopkins, Alison Schnoes, Valerie Salazar, Whitney Taylor
-# Instructor / Mentors: Joseph Raetano
+## Star Warriors: Tameka Gillett, Talia Hopkins, Alison Schnoes, Valerie Salazar, Whitney Taylor
+## Instructor / Mentors: Joseph Raetano
