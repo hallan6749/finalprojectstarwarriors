@@ -4,7 +4,7 @@ library("car")
 library("effects")
 library("multcomp")
 library("dplyr")
-
+library("ggplot2")
 
 # Load Dataset
 library(readxl)
@@ -69,5 +69,11 @@ pairwise.t.test(CancerRename2$PopulationLOG, CancerRename2$Race, p.adjust="bonfe
 
 # Computing Post Hocs with Bonferroni Adjustment Violated the Assumption for Homogeneity of Variance
 pairwise.t.test(CancerRename2$PopulationLOG, CancerRename2$Race, p.adjust="bonferroni", pool.sd = FALSE)
+# Same Significant Values
 
 
+d <- ggplot(CancerRename2, aes(x = Race, y = Population))
+d + geom_boxplot() + xlab("")
+# Alison First Boxplot
+
+summary(CancerRename2$Population)

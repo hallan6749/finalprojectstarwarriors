@@ -60,5 +60,5 @@ Homogeneity_RegrSlp = lm(PopulationLOG~Race, data=CancerRename2)
 anova(Homogeneity_RegrSlp)
 # Does not meet assumption of homogeneity of regression slopes
 # Race does not have an impact on the population
-# Race is an indepednent variable in the model
+# Race is an independent variable in the model
 
