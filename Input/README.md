@@ -4,7 +4,7 @@ In Order of Completion -
 
 Merge Excel Documents Python File
 Cancer.csv <script src="
-https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/Cancer.csv"></script>
+https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/Cancer.csv"> alt="Cancer.csv"</script>
 
 Cancer_Occurrence.csv https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/Cancer_Occurrence.csv
 State.csv https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/State.csv
