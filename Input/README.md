@@ -3,15 +3,17 @@
 In Order of Completion - 
 
 Merge Excel Documents Python File
-[Cancer.csv https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/Cancer.csv](url)
-Cancer_Occurrence.csv
-State.csv
-Created CancerCombinedFile
+Cancer.csv <script src="
+https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/Cancer.csv"></script>
 
-Created CancerCombinedFile2 and CancerCombinedFile3
+Cancer_Occurrence.csv https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/Cancer_Occurrence.csv
+State.csv https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/State.csv
+Created CancerCombinedFile https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/CancerCombinedFile.xlsx
+
+Created CancerCombinedFile2 and CancerCombinedFile3 https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/CancerCombinedFile2.xlsx https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/CancerCombinedFile3.xlsx
 Edited down to one category - Female Genital System
 
-Verification and Statistics of New Dataset
+Verification and Statistics of New Dataset https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/Cancer%20Alison_Verify%20Merged%20and%20Condensed%20File.ipynb
 
 Turned CancerDataSet.R into CSV and EXCEL Files
 CancerRename.csv
