@@ -26,6 +26,7 @@
 ## [Categorical Data Cancer](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/Categorical%20Data%20Cancer.docx)
 ### Categorical vs Numerical Data, Encoding, Summary, Gilmpse 
 
+
 ## Evaulation Questions
 ### [Question 1](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/Question%201.docx) - Tameka - Is there a correlation between the percent population below poverty to race?
 ### Question - Alison - Which race has the highest female cancer health concerns compared to the total population?
