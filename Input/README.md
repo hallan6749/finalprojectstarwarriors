@@ -23,7 +23,7 @@
 ### [CancerRecoded.csv](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/CancerRecoded.csv)
 ### [CancerRecoded.xlsx](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/CancerRecoded.xlsx)
 
-## [Categorical Data Cancer](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/Categorical%20Data%20Cancer.docx)
+## [Categorical Data Cancer](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/Categorical%20Data%20Cancer.pdf)
 ### Categorical vs Numerical Data, Encoding, Summary, Gilmpse 
 
 
