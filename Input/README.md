@@ -1,25 +1,25 @@
 # Topic - Female Genital System Cancer
 
 ## [Merge Excel Documents Python File](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/Cancer%20Alison_Merge%20Excel%20Documents%20Python%20File.ipynb)
-##### [Cancer.csv](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/Cancer.csv)
-##### [Cancer_Occurrence.csv](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/Cancer_Occurrence.csv)
-##### [State.csv](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/State.csv)
-##### [Created CancerCombinedFile](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/CancerCombinedFile.xlsx)
+### [Cancer.csv](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/Cancer.csv)
+### [Cancer_Occurrence.csv](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/Cancer_Occurrence.csv)
+### [State.csv](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/State.csv)
+### [Created CancerCombinedFile](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/CancerCombinedFile.xlsx)
 
 ## Created [CancerCombinedFile2](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/CancerCombinedFile2.xlsx) and [CancerCombinedFile3](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/CancerCombinedFile3.xlsx)
-##### Edited down to one category - Female Genital System
+### Edited down to one category - Female Genital System
 
 ## [Verification and Statistics of New Dataset](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/Cancer%20Alison_Verify%20Merged%20and%20Condensed%20File.ipynb)
 
 ## Turned [CancerDataSet.R](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/CancerDataSet.R) into [CSV and EXCEL](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/R%20Code%20Rename%20and%20Recode%20into%20CSV%20and%20Excel%20files2.R) 
-##### Files
-##### [CancerRename.csv](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/CancerRename.csv)
-##### [CancerRename.xlsx](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/CancerRename.xlsx)
+### Files
+### [CancerRename.csv](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/CancerRename.csv)
+### [CancerRename.xlsx](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/CancerRename.xlsx)
 
 ## Turned [CancerDataSet.R2](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/CancerDataSet2.R) into [CSV and EXCEL2](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/R%20Code%20Rename%20and%20Recode%20into%20CSV%20and%20Excel%20files2.R) 
-##### Files
-##### [CancerRecoded.csv](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/CancerRecoded.csv)
-##### [CancerRecoded.xlsx](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/CancerRecoded.xlsx)
+### Files
+### [CancerRecoded.csv](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/CancerRecoded.csv)
+### [CancerRecoded.xlsx](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/CancerRecoded.xlsx)
 
 ## Evaulation Questions
 ### [Question 1](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/Question%201.docx) - Tameka - Is there a correlation between the percent population below poverty to race?
