@@ -3,8 +3,6 @@
 In Order of Completion - 
 
 Merge Excel Documents Python File
-Cancer.csv <script src="
-https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/Cancer.csv"> alt="Cancer.csv"</script>
 <input type="Cancer.csv" placeholder="https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/Cancer.csv" >
 
 
