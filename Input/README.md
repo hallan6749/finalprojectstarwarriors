@@ -1,9 +1,8 @@
 # Topic - Female Genital System Cancer
-<!DOCTYPE>
 In Order of Completion - 
 
 Merge Excel Documents Python File
-<html> <input type="Cancer.csv" placeholder="https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/Cancer.csv"></html>
+[Cancer.csv](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/Cancer.csv)
 
 
 Cancer_Occurrence.csv https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Input/Cancer_Occurrence.csv
