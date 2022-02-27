@@ -1,0 +1,1076 @@
+"","Name","Category","State","Race","Count","Poverty%","Insured","Population","NameR"
+"1","Cervix Uteri","Female Genital System","Alabama","NativeAmer",0,18.4,89.2,4874747,0
+"2","Cervix Uteri","Female Genital System","Alabama","AfricanAmer",77,18.4,89.2,4874747,0
+"3","Cervix Uteri","Female Genital System","Alabama","Caucasian",152,18.4,89.2,4874747,0
+"4","Corpus Uteri","Female Genital System","Alabama","NativeAmer",0,18.4,89.2,4874747,1
+"5","Corpus Uteri","Female Genital System","Alabama","AfricanAmer",154,18.4,89.2,4874747,1
+"6","Corpus Uteri","Female Genital System","Alabama","Caucasian",447,18.4,89.2,4874747,1
+"7","Uterus, NOS","Female Genital System","Alabama","NativeAmer",0,18.4,89.2,4874747,2
+"8","Uterus, NOS","Female Genital System","Alabama","Other",0,18.4,89.2,4874747,2
+"9","Ovary","Female Genital System","Alabama","NativeAmer",0,18.4,89.2,4874747,3
+"10","Ovary","Female Genital System","Alabama","AfricanAmer",71,18.4,89.2,4874747,3
+"11","Ovary","Female Genital System","Alabama","Caucasian",268,18.4,89.2,4874747,3
+"12","Vagina","Female Genital System","Alabama","NativeAmer",0,18.4,89.2,4874747,4
+"13","Vulva","Female Genital System","Alabama","NativeAmer",0,18.4,89.2,4874747,5
+"14","Vulva","Female Genital System","Alabama","AsianAmer",0,18.4,89.2,4874747,5
+"15","Vulva","Female Genital System","Alabama","Caucasian",71,18.4,89.2,4874747,5
+"16","Vulva","Female Genital System","Alabama","Other",0,18.4,89.2,4874747,5
+"17","Other Female Genital Organs","Female Genital System","Alabama","NativeAmer",0,18.4,89.2,4874747,6
+"18","Other Female Genital Organs","Female Genital System","Alabama","AsianAmer",0,18.4,89.2,4874747,6
+"19","Other Female Genital Organs","Female Genital System","Alabama","Other",0,18.4,89.2,4874747,6
+"20","Cervix Uteri","Female Genital System","Alaska","AfricanAmer",0,10.1,84.5,739795,0
+"21","Cervix Uteri","Female Genital System","Alaska","Caucasian",17,10.1,84.5,739795,0
+"22","Cervix Uteri","Female Genital System","Alaska","Other",0,10.1,84.5,739795,0
+"23","Corpus Uteri","Female Genital System","Alaska","Caucasian",64,10.1,84.5,739795,1
+"24","Corpus Uteri","Female Genital System","Alaska","Other",0,10.1,84.5,739795,1
+"25","Uterus, NOS","Female Genital System","Alaska","NativeAmer",0,10.1,84.5,739795,2
+"26","Uterus, NOS","Female Genital System","Alaska","AsianAmer",0,10.1,84.5,739795,2
+"27","Uterus, NOS","Female Genital System","Alaska","AfricanAmer",0,10.1,84.5,739795,2
+"28","Uterus, NOS","Female Genital System","Alaska","Other",0,10.1,84.5,739795,2
+"29","Ovary","Female Genital System","Alaska","Caucasian",28,10.1,84.5,739795,3
+"30","Ovary","Female Genital System","Alaska","Other",0,10.1,84.5,739795,3
+"31","Vagina","Female Genital System","Alaska","AsianAmer",0,10.1,84.5,739795,4
+"32","Vagina","Female Genital System","Alaska","AfricanAmer",0,10.1,84.5,739795,4
+"33","Vagina","Female Genital System","Alaska","Caucasian",0,10.1,84.5,739795,4
+"34","Vagina","Female Genital System","Alaska","Other",0,10.1,84.5,739795,4
+"35","Vulva","Female Genital System","Alaska","AsianAmer",0,10.1,84.5,739795,5
+"36","Other Female Genital Organs","Female Genital System","Alaska","NativeAmer",0,10.1,84.5,739795,6
+"37","Other Female Genital Organs","Female Genital System","Alaska","AsianAmer",0,10.1,84.5,739795,6
+"38","Other Female Genital Organs","Female Genital System","Alaska","AfricanAmer",0,10.1,84.5,739795,6
+"39","Other Female Genital Organs","Female Genital System","Alaska","Other",0,10.1,84.5,739795,6
+"40","Cervix Uteri","Female Genital System","Arizona","Caucasian",217,17.7,88.1,7016270,0
+"41","Corpus Uteri","Female Genital System","Arizona","NativeAmer",40,17.7,88.1,7016270,1
+"42","Corpus Uteri","Female Genital System","Arizona","AsianAmer",20,17.7,88.1,7016270,1
+"43","Corpus Uteri","Female Genital System","Arizona","AfricanAmer",30,17.7,88.1,7016270,1
+"44","Corpus Uteri","Female Genital System","Arizona","Caucasian",853,17.7,88.1,7016270,1
+"45","Corpus Uteri","Female Genital System","Arizona","Other",18,17.7,88.1,7016270,1
+"46","Uterus, NOS","Female Genital System","Arizona","Caucasian",38,17.7,88.1,7016270,2
+"47","Ovary","Female Genital System","Arizona","NativeAmer",16,17.7,88.1,7016270,3
+"48","Ovary","Female Genital System","Arizona","Caucasian",369,17.7,88.1,7016270,3
+"49","Vagina","Female Genital System","Arizona","AsianAmer",0,17.7,88.1,7016270,4
+"50","Vagina","Female Genital System","Arizona","Other",0,17.7,88.1,7016270,4
+"51","Vulva","Female Genital System","Arizona","NativeAmer",0,17.7,88.1,7016270,5
+"52","Vulva","Female Genital System","Arizona","AsianAmer",0,17.7,88.1,7016270,5
+"53","Vulva","Female Genital System","Arizona","Caucasian",47,17.7,88.1,7016270,5
+"54","Vulva","Female Genital System","Arizona","Other",0,17.7,88.1,7016270,5
+"55","Other Female Genital Organs","Female Genital System","Arizona","Caucasian",51,17.7,88.1,7016270,6
+"56","Other Female Genital Organs","Female Genital System","Arizona","Other",0,17.7,88.1,7016270,6
+"57","Cervix Uteri","Female Genital System","Arkansas","AfricanAmer",26,18.8,90.6,3004279,0
+"58","Cervix Uteri","Female Genital System","Arkansas","Caucasian",123,18.8,90.6,3004279,0
+"59","Corpus Uteri","Female Genital System","Arkansas","AfricanAmer",49,18.8,90.6,3004279,1
+"60","Corpus Uteri","Female Genital System","Arkansas","Caucasian",363,18.8,90.6,3004279,1
+"61","Uterus, NOS","Female Genital System","Arkansas","AsianAmer",0,18.8,90.6,3004279,2
+"62","Ovary","Female Genital System","Arkansas","AfricanAmer",21,18.8,90.6,3004279,3
+"63","Ovary","Female Genital System","Arkansas","Caucasian",188,18.8,90.6,3004279,3
+"64","Vagina","Female Genital System","Arkansas","NativeAmer",0,18.8,90.6,3004279,4
+"65","Vagina","Female Genital System","Arkansas","AsianAmer",0,18.8,90.6,3004279,4
+"66","Vulva","Female Genital System","Arkansas","NativeAmer",0,18.8,90.6,3004279,5
+"67","Vulva","Female Genital System","Arkansas","AsianAmer",0,18.8,90.6,3004279,5
+"68","Vulva","Female Genital System","Arkansas","Caucasian",50,18.8,90.6,3004279,5
+"69","Vulva","Female Genital System","Arkansas","Other",0,18.8,90.6,3004279,5
+"70","Other Female Genital Organs","Female Genital System","Arkansas","NativeAmer",0,18.8,90.6,3004279,6
+"71","Other Female Genital Organs","Female Genital System","Arkansas","AsianAmer",0,18.8,90.6,3004279,6
+"72","Other Female Genital Organs","Female Genital System","Arkansas","Other",0,18.8,90.6,3004279,6
+"73","Cervix Uteri","Female Genital System","California","AsianAmer",227,15.8,91.6,39536653,0
+"74","Cervix Uteri","Female Genital System","California","AfricanAmer",108,15.8,91.6,39536653,0
+"75","Cervix Uteri","Female Genital System","California","Caucasian",1043,15.8,91.6,39536653,0
+"76","Cervix Uteri","Female Genital System","California","Other",35,15.8,91.6,39536653,0
+"77","Corpus Uteri","Female Genital System","California","NativeAmer",45,15.8,91.6,39536653,1
+"78","Corpus Uteri","Female Genital System","California","AsianAmer",758,15.8,91.6,39536653,1
+"79","Corpus Uteri","Female Genital System","California","AfricanAmer",347,15.8,91.6,39536653,1
+"80","Corpus Uteri","Female Genital System","California","Caucasian",4430,15.8,91.6,39536653,1
+"81","Corpus Uteri","Female Genital System","California","Other",85,15.8,91.6,39536653,1
+"82","Uterus, NOS","Female Genital System","California","AsianAmer",25,15.8,91.6,39536653,2
+"83","Uterus, NOS","Female Genital System","California","AfricanAmer",27,15.8,91.6,39536653,2
+"84","Uterus, NOS","Female Genital System","California","Caucasian",165,15.8,91.6,39536653,2
+"85","Ovary","Female Genital System","California","AsianAmer",344,15.8,91.6,39536653,3
+"86","Ovary","Female Genital System","California","AfricanAmer",127,15.8,91.6,39536653,3
+"87","Ovary","Female Genital System","California","Caucasian",2028,15.8,91.6,39536653,3
+"88","Ovary","Female Genital System","California","Other",21,15.8,91.6,39536653,3
+"89","Vagina","Female Genital System","California","AsianAmer",19,15.8,91.6,39536653,4
+"90","Vagina","Female Genital System","California","Caucasian",99,15.8,91.6,39536653,4
+"91","Vulva","Female Genital System","California","AsianAmer",29,15.8,91.6,39536653,5
+"92","Vulva","Female Genital System","California","AfricanAmer",23,15.8,91.6,39536653,5
+"93","Vulva","Female Genital System","California","Caucasian",359,15.8,91.6,39536653,5
+"94","Other Female Genital Organs","Female Genital System","California","AsianAmer",29,15.8,91.6,39536653,6
+"95","Other Female Genital Organs","Female Genital System","California","Caucasian",239,15.8,91.6,39536653,6
+"96","Cervix Uteri","Female Genital System","Colorado","Caucasian",158,12.2,91.4,5607154,0
+"97","Corpus Uteri","Female Genital System","Colorado","AfricanAmer",18,12.2,91.4,5607154,1
+"98","Corpus Uteri","Female Genital System","Colorado","Caucasian",623,12.2,91.4,5607154,1
+"99","Uterus, NOS","Female Genital System","Colorado","NativeAmer",0,12.2,91.4,5607154,2
+"100","Uterus, NOS","Female Genital System","Colorado","AsianAmer",0,12.2,91.4,5607154,2
+"101","Uterus, NOS","Female Genital System","Colorado","Caucasian",18,12.2,91.4,5607154,2
+"102","Ovary","Female Genital System","Colorado","NativeAmer",0,12.2,91.4,5607154,3
+"103","Ovary","Female Genital System","Colorado","Caucasian",291,12.2,91.4,5607154,3
+"104","Vagina","Female Genital System","Colorado","NativeAmer",0,12.2,91.4,5607154,4
+"105","Vagina","Female Genital System","Colorado","AsianAmer",0,12.2,91.4,5607154,4
+"106","Vagina","Female Genital System","Colorado","Caucasian",16,12.2,91.4,5607154,4
+"107","Vagina","Female Genital System","Colorado","Other",0,12.2,91.4,5607154,4
+"108","Vulva","Female Genital System","Colorado","NativeAmer",0,12.2,91.4,5607154,5
+"109","Vulva","Female Genital System","Colorado","Caucasian",63,12.2,91.4,5607154,5
+"110","Other Female Genital Organs","Female Genital System","Colorado","NativeAmer",0,12.2,91.4,5607154,6
+"111","Other Female Genital Organs","Female Genital System","Colorado","Caucasian",55,12.2,91.4,5607154,6
+"112","Cervix Uteri","Female Genital System","Connecticut","NativeAmer",0,10.4,94.2,3588184,0
+"113","Cervix Uteri","Female Genital System","Connecticut","Caucasian",98,10.4,94.2,3588184,0
+"114","Corpus Uteri","Female Genital System","Connecticut","NativeAmer",0,10.4,94.2,3588184,1
+"115","Corpus Uteri","Female Genital System","Connecticut","AfricanAmer",59,10.4,94.2,3588184,1
+"116","Corpus Uteri","Female Genital System","Connecticut","Caucasian",604,10.4,94.2,3588184,1
+"117","Corpus Uteri","Female Genital System","Connecticut","Other",28,10.4,94.2,3588184,1
+"118","Uterus, NOS","Female Genital System","Connecticut","NativeAmer",0,10.4,94.2,3588184,2
+"119","Uterus, NOS","Female Genital System","Connecticut","AsianAmer",0,10.4,94.2,3588184,2
+"120","Uterus, NOS","Female Genital System","Connecticut","Caucasian",19,10.4,94.2,3588184,2
+"121","Ovary","Female Genital System","Connecticut","NativeAmer",0,10.4,94.2,3588184,3
+"122","Ovary","Female Genital System","Connecticut","AfricanAmer",18,10.4,94.2,3588184,3
+"123","Ovary","Female Genital System","Connecticut","Caucasian",262,10.4,94.2,3588184,3
+"124","Vagina","Female Genital System","Connecticut","NativeAmer",0,10.4,94.2,3588184,4
+"125","Vagina","Female Genital System","Connecticut","AsianAmer",0,10.4,94.2,3588184,4
+"126","Vagina","Female Genital System","Connecticut","Other",0,10.4,94.2,3588184,4
+"127","Vulva","Female Genital System","Connecticut","NativeAmer",0,10.4,94.2,3588184,5
+"128","Vulva","Female Genital System","Connecticut","AsianAmer",0,10.4,94.2,3588184,5
+"129","Vulva","Female Genital System","Connecticut","Caucasian",57,10.4,94.2,3588184,5
+"130","Other Female Genital Organs","Female Genital System","Connecticut","NativeAmer",0,10.4,94.2,3588184,6
+"131","Other Female Genital Organs","Female Genital System","Connecticut","AfricanAmer",0,10.4,94.2,3588184,6
+"132","Other Female Genital Organs","Female Genital System","Connecticut","Caucasian",23,10.4,94.2,3588184,6
+"133","Cervix Uteri","Female Genital System","Delaware","NativeAmer",0,12,93.3,961939,0
+"134","Cervix Uteri","Female Genital System","Delaware","AsianAmer",0,12,93.3,961939,0
+"135","Cervix Uteri","Female Genital System","Delaware","Caucasian",26,12,93.3,961939,0
+"136","Corpus Uteri","Female Genital System","Delaware","NativeAmer",0,12,93.3,961939,1
+"137","Corpus Uteri","Female Genital System","Delaware","AfricanAmer",31,12,93.3,961939,1
+"138","Corpus Uteri","Female Genital System","Delaware","Caucasian",156,12,93.3,961939,1
+"139","Uterus, NOS","Female Genital System","Delaware","NativeAmer",0,12,93.3,961939,2
+"140","Uterus, NOS","Female Genital System","Delaware","AsianAmer",0,12,93.3,961939,2
+"141","Uterus, NOS","Female Genital System","Delaware","Other",0,12,93.3,961939,2
+"142","Ovary","Female Genital System","Delaware","NativeAmer",0,12,93.3,961939,3
+"143","Ovary","Female Genital System","Delaware","Caucasian",48,12,93.3,961939,3
+"144","Vagina","Female Genital System","Delaware","NativeAmer",0,12,93.3,961939,4
+"145","Vagina","Female Genital System","Delaware","AsianAmer",0,12,93.3,961939,4
+"146","Vagina","Female Genital System","Delaware","Other",0,12,93.3,961939,4
+"147","Vulva","Female Genital System","Delaware","NativeAmer",0,12,93.3,961939,5
+"148","Vulva","Female Genital System","Delaware","AsianAmer",0,12,93.3,961939,5
+"149","Vulva","Female Genital System","Delaware","AfricanAmer",0,12,93.3,961939,5
+"150","Vulva","Female Genital System","Delaware","Other",0,12,93.3,961939,5
+"151","Other Female Genital Organs","Female Genital System","Delaware","NativeAmer",0,12,93.3,961939,6
+"152","Other Female Genital Organs","Female Genital System","Delaware","AsianAmer",0,12,93.3,961939,6
+"153","Other Female Genital Organs","Female Genital System","Delaware","Other",0,12,93.3,961939,6
+"154","Cervix Uteri","Female Genital System","District of Columbia","NativeAmer",0,17.9,95.9,693972,0
+"155","Cervix Uteri","Female Genital System","District of Columbia","AfricanAmer",19,17.9,95.9,693972,0
+"156","Corpus Uteri","Female Genital System","District of Columbia","NativeAmer",0,17.9,95.9,693972,1
+"157","Corpus Uteri","Female Genital System","District of Columbia","AfricanAmer",57,17.9,95.9,693972,1
+"158","Corpus Uteri","Female Genital System","District of Columbia","Caucasian",19,17.9,95.9,693972,1
+"159","Uterus, NOS","Female Genital System","District of Columbia","NativeAmer",0,17.9,95.9,693972,2
+"160","Uterus, NOS","Female Genital System","District of Columbia","Other",0,17.9,95.9,693972,2
+"161","Ovary","Female Genital System","District of Columbia","NativeAmer",0,17.9,95.9,693972,3
+"162","Ovary","Female Genital System","District of Columbia","AfricanAmer",26,17.9,95.9,693972,3
+"163","Vagina","Female Genital System","District of Columbia","NativeAmer",0,17.9,95.9,693972,4
+"164","Vagina","Female Genital System","District of Columbia","AsianAmer",0,17.9,95.9,693972,4
+"165","Vagina","Female Genital System","District of Columbia","Caucasian",0,17.9,95.9,693972,4
+"166","Vulva","Female Genital System","District of Columbia","NativeAmer",0,17.9,95.9,693972,5
+"167","Vulva","Female Genital System","District of Columbia","AsianAmer",0,17.9,95.9,693972,5
+"168","Vulva","Female Genital System","District of Columbia","Other",0,17.9,95.9,693972,5
+"169","Other Female Genital Organs","Female Genital System","District of Columbia","NativeAmer",0,17.9,95.9,693972,6
+"170","Other Female Genital Organs","Female Genital System","District of Columbia","AsianAmer",0,17.9,95.9,693972,6
+"171","Other Female Genital Organs","Female Genital System","District of Columbia","Caucasian",0,17.9,95.9,693972,6
+"172","Other Female Genital Organs","Female Genital System","District of Columbia","Other",0,17.9,95.9,693972,6
+"173","Cervix Uteri","Female Genital System","Florida","NativeAmer",0,16.1,84.6,20984400,0
+"174","Cervix Uteri","Female Genital System","Florida","AsianAmer",17,16.1,84.6,20984400,0
+"175","Cervix Uteri","Female Genital System","Florida","AfricanAmer",188,16.1,84.6,20984400,0
+"176","Cervix Uteri","Female Genital System","Florida","Caucasian",717,16.1,84.6,20984400,0
+"177","Cervix Uteri","Female Genital System","Florida","Other",25,16.1,84.6,20984400,0
+"178","Corpus Uteri","Female Genital System","Florida","AsianAmer",48,16.1,84.6,20984400,1
+"179","Corpus Uteri","Female Genital System","Florida","AfricanAmer",495,16.1,84.6,20984400,1
+"180","Corpus Uteri","Female Genital System","Florida","Caucasian",2775,16.1,84.6,20984400,1
+"181","Corpus Uteri","Female Genital System","Florida","Other",79,16.1,84.6,20984400,1
+"182","Uterus, NOS","Female Genital System","Florida","NativeAmer",0,16.1,84.6,20984400,2
+"183","Uterus, NOS","Female Genital System","Florida","AfricanAmer",26,16.1,84.6,20984400,2
+"184","Uterus, NOS","Female Genital System","Florida","Caucasian",92,16.1,84.6,20984400,2
+"185","Ovary","Female Genital System","Florida","AsianAmer",21,16.1,84.6,20984400,3
+"186","Ovary","Female Genital System","Florida","AfricanAmer",138,16.1,84.6,20984400,3
+"187","Ovary","Female Genital System","Florida","Caucasian",1301,16.1,84.6,20984400,3
+"188","Ovary","Female Genital System","Florida","Other",37,16.1,84.6,20984400,3
+"189","Vagina","Female Genital System","Florida","NativeAmer",0,16.1,84.6,20984400,4
+"190","Vagina","Female Genital System","Florida","AsianAmer",0,16.1,84.6,20984400,4
+"191","Vagina","Female Genital System","Florida","Caucasian",79,16.1,84.6,20984400,4
+"192","Vulva","Female Genital System","Florida","NativeAmer",0,16.1,84.6,20984400,5
+"193","Vulva","Female Genital System","Florida","AfricanAmer",31,16.1,84.6,20984400,5
+"194","Vulva","Female Genital System","Florida","Caucasian",281,16.1,84.6,20984400,5
+"195","Other Female Genital Organs","Female Genital System","Florida","NativeAmer",0,16.1,84.6,20984400,6
+"196","Other Female Genital Organs","Female Genital System","Florida","AfricanAmer",19,16.1,84.6,20984400,6
+"197","Other Female Genital Organs","Female Genital System","Florida","Caucasian",125,16.1,84.6,20984400,6
+"198","Cervix Uteri","Female Genital System","Georgia","AfricanAmer",114,17.8,85.1,10429379,0
+"199","Cervix Uteri","Female Genital System","Georgia","Caucasian",302,17.8,85.1,10429379,0
+"200","Corpus Uteri","Female Genital System","Georgia","AsianAmer",26,17.8,85.1,10429379,1
+"201","Corpus Uteri","Female Genital System","Georgia","AfricanAmer",432,17.8,85.1,10429379,1
+"202","Corpus Uteri","Female Genital System","Georgia","Caucasian",949,17.8,85.1,10429379,1
+"203","Uterus, NOS","Female Genital System","Georgia","NativeAmer",0,17.8,85.1,10429379,2
+"204","Uterus, NOS","Female Genital System","Georgia","AsianAmer",0,17.8,85.1,10429379,2
+"205","Uterus, NOS","Female Genital System","Georgia","AfricanAmer",22,17.8,85.1,10429379,2
+"206","Uterus, NOS","Female Genital System","Georgia","Caucasian",25,17.8,85.1,10429379,2
+"207","Uterus, NOS","Female Genital System","Georgia","Other",0,17.8,85.1,10429379,2
+"208","Ovary","Female Genital System","Georgia","NativeAmer",0,17.8,85.1,10429379,3
+"209","Ovary","Female Genital System","Georgia","AsianAmer",26,17.8,85.1,10429379,3
+"210","Ovary","Female Genital System","Georgia","AfricanAmer",148,17.8,85.1,10429379,3
+"211","Ovary","Female Genital System","Georgia","Caucasian",442,17.8,85.1,10429379,3
+"212","Vagina","Female Genital System","Georgia","NativeAmer",0,17.8,85.1,10429379,4
+"213","Vagina","Female Genital System","Georgia","AsianAmer",0,17.8,85.1,10429379,4
+"214","Vagina","Female Genital System","Georgia","AfricanAmer",24,17.8,85.1,10429379,4
+"215","Vagina","Female Genital System","Georgia","Caucasian",25,17.8,85.1,10429379,4
+"216","Vagina","Female Genital System","Georgia","Other",0,17.8,85.1,10429379,4
+"217","Vulva","Female Genital System","Georgia","NativeAmer",0,17.8,85.1,10429379,5
+"218","Vulva","Female Genital System","Georgia","AfricanAmer",31,17.8,85.1,10429379,5
+"219","Vulva","Female Genital System","Georgia","Caucasian",114,17.8,85.1,10429379,5
+"220","Other Female Genital Organs","Female Genital System","Georgia","NativeAmer",0,17.8,85.1,10429379,6
+"221","Other Female Genital Organs","Female Genital System","Georgia","Caucasian",33,17.8,85.1,10429379,6
+"222","Other Female Genital Organs","Female Genital System","Georgia","Other",0,17.8,85.1,10429379,6
+"223","Cervix Uteri","Female Genital System","Hawaii","AsianAmer",29,10.8,95.8,1427538,0
+"224","Cervix Uteri","Female Genital System","Hawaii","AfricanAmer",0,10.8,95.8,1427538,0
+"225","Corpus Uteri","Female Genital System","Hawaii","NativeAmer",0,10.8,95.8,1427538,1
+"226","Corpus Uteri","Female Genital System","Hawaii","AsianAmer",200,10.8,95.8,1427538,1
+"227","Corpus Uteri","Female Genital System","Hawaii","Caucasian",50,10.8,95.8,1427538,1
+"228","Uterus, NOS","Female Genital System","Hawaii","NativeAmer",0,10.8,95.8,1427538,2
+"229","Uterus, NOS","Female Genital System","Hawaii","AfricanAmer",0,10.8,95.8,1427538,2
+"230","Uterus, NOS","Female Genital System","Hawaii","Other",0,10.8,95.8,1427538,2
+"231","Ovary","Female Genital System","Hawaii","AsianAmer",50,10.8,95.8,1427538,3
+"232","Ovary","Female Genital System","Hawaii","Caucasian",33,10.8,95.8,1427538,3
+"233","Vagina","Female Genital System","Hawaii","NativeAmer",0,10.8,95.8,1427538,4
+"234","Vagina","Female Genital System","Hawaii","AfricanAmer",0,10.8,95.8,1427538,4
+"235","Vagina","Female Genital System","Hawaii","Caucasian",0,10.8,95.8,1427538,4
+"236","Vagina","Female Genital System","Hawaii","Other",0,10.8,95.8,1427538,4
+"237","Vulva","Female Genital System","Hawaii","NativeAmer",0,10.8,95.8,1427538,5
+"238","Vulva","Female Genital System","Hawaii","AfricanAmer",0,10.8,95.8,1427538,5
+"239","Vulva","Female Genital System","Hawaii","Other",0,10.8,95.8,1427538,5
+"240","Other Female Genital Organs","Female Genital System","Hawaii","NativeAmer",0,10.8,95.8,1427538,6
+"241","Other Female Genital Organs","Female Genital System","Hawaii","AfricanAmer",0,10.8,95.8,1427538,6
+"242","Other Female Genital Organs","Female Genital System","Hawaii","Other",0,10.8,95.8,1427538,6
+"243","Cervix Uteri","Female Genital System","Idaho","AfricanAmer",0,15.2,88.2,1716943,0
+"244","Cervix Uteri","Female Genital System","Idaho","Caucasian",44,15.2,88.2,1716943,0
+"245","Corpus Uteri","Female Genital System","Idaho","AfricanAmer",0,15.2,88.2,1716943,1
+"246","Corpus Uteri","Female Genital System","Idaho","Caucasian",229,15.2,88.2,1716943,1
+"247","Uterus, NOS","Female Genital System","Idaho","NativeAmer",0,15.2,88.2,1716943,2
+"248","Uterus, NOS","Female Genital System","Idaho","AsianAmer",0,15.2,88.2,1716943,2
+"249","Uterus, NOS","Female Genital System","Idaho","AfricanAmer",0,15.2,88.2,1716943,2
+"250","Uterus, NOS","Female Genital System","Idaho","Other",0,15.2,88.2,1716943,2
+"251","Ovary","Female Genital System","Idaho","AfricanAmer",0,15.2,88.2,1716943,3
+"252","Ovary","Female Genital System","Idaho","Caucasian",94,15.2,88.2,1716943,3
+"253","Ovary","Female Genital System","Idaho","Other",0,15.2,88.2,1716943,3
+"254","Vagina","Female Genital System","Idaho","NativeAmer",0,15.2,88.2,1716943,4
+"255","Vagina","Female Genital System","Idaho","AsianAmer",0,15.2,88.2,1716943,4
+"256","Vagina","Female Genital System","Idaho","AfricanAmer",0,15.2,88.2,1716943,4
+"257","Vagina","Female Genital System","Idaho","Other",0,15.2,88.2,1716943,4
+"258","Vulva","Female Genital System","Idaho","NativeAmer",0,15.2,88.2,1716943,5
+"259","Vulva","Female Genital System","Idaho","AfricanAmer",0,15.2,88.2,1716943,5
+"260","Vulva","Female Genital System","Idaho","Caucasian",29,15.2,88.2,1716943,5
+"261","Vulva","Female Genital System","Idaho","Other",0,15.2,88.2,1716943,5
+"262","Other Female Genital Organs","Female Genital System","Idaho","NativeAmer",0,15.2,88.2,1716943,6
+"263","Other Female Genital Organs","Female Genital System","Idaho","AfricanAmer",0,15.2,88.2,1716943,6
+"264","Other Female Genital Organs","Female Genital System","Idaho","Other",0,15.2,88.2,1716943,6
+"265","Cervix Uteri","Female Genital System","Illinois","AsianAmer",22,14,92.5,12802023,0
+"266","Cervix Uteri","Female Genital System","Illinois","AfricanAmer",95,14,92.5,12802023,0
+"267","Cervix Uteri","Female Genital System","Illinois","Caucasian",372,14,92.5,12802023,0
+"268","Corpus Uteri","Female Genital System","Illinois","AsianAmer",73,14,92.5,12802023,1
+"269","Corpus Uteri","Female Genital System","Illinois","AfricanAmer",334,14,92.5,12802023,1
+"270","Corpus Uteri","Female Genital System","Illinois","Caucasian",1926,14,92.5,12802023,1
+"271","Corpus Uteri","Female Genital System","Illinois","Other",31,14,92.5,12802023,1
+"272","Uterus, NOS","Female Genital System","Illinois","NativeAmer",0,14,92.5,12802023,2
+"273","Uterus, NOS","Female Genital System","Illinois","AfricanAmer",20,14,92.5,12802023,2
+"274","Uterus, NOS","Female Genital System","Illinois","Caucasian",40,14,92.5,12802023,2
+"275","Ovary","Female Genital System","Illinois","AsianAmer",29,14,92.5,12802023,3
+"276","Ovary","Female Genital System","Illinois","AfricanAmer",114,14,92.5,12802023,3
+"277","Ovary","Female Genital System","Illinois","Caucasian",741,14,92.5,12802023,3
+"278","Vagina","Female Genital System","Illinois","NativeAmer",0,14,92.5,12802023,4
+"279","Vagina","Female Genital System","Illinois","Caucasian",35,14,92.5,12802023,4
+"280","Vagina","Female Genital System","Illinois","Other",0,14,92.5,12802023,4
+"281","Vulva","Female Genital System","Illinois","Caucasian",188,14,92.5,12802023,5
+"282","Other Female Genital Organs","Female Genital System","Illinois","NativeAmer",0,14,92.5,12802023,6
+"283","Other Female Genital Organs","Female Genital System","Illinois","AfricanAmer",18,14,92.5,12802023,6
+"284","Other Female Genital Organs","Female Genital System","Illinois","Caucasian",106,14,92.5,12802023,6
+"285","Cervix Uteri","Female Genital System","Indiana","NativeAmer",0,15,90.5,6666818,0
+"286","Cervix Uteri","Female Genital System","Indiana","AfricanAmer",31,15,90.5,6666818,0
+"287","Cervix Uteri","Female Genital System","Indiana","Caucasian",254,15,90.5,6666818,0
+"288","Corpus Uteri","Female Genital System","Indiana","AfricanAmer",85,15,90.5,6666818,1
+"289","Corpus Uteri","Female Genital System","Indiana","Caucasian",1045,15,90.5,6666818,1
+"290","Uterus, NOS","Female Genital System","Indiana","NativeAmer",0,15,90.5,6666818,2
+"291","Uterus, NOS","Female Genital System","Indiana","AsianAmer",0,15,90.5,6666818,2
+"292","Uterus, NOS","Female Genital System","Indiana","Other",0,15,90.5,6666818,2
+"293","Ovary","Female Genital System","Indiana","AfricanAmer",24,15,90.5,6666818,3
+"294","Ovary","Female Genital System","Indiana","Caucasian",374,15,90.5,6666818,3
+"295","Ovary","Female Genital System","Indiana","Other",0,15,90.5,6666818,3
+"296","Vagina","Female Genital System","Indiana","NativeAmer",0,15,90.5,6666818,4
+"297","Vagina","Female Genital System","Indiana","AsianAmer",0,15,90.5,6666818,4
+"298","Vagina","Female Genital System","Indiana","Caucasian",31,15,90.5,6666818,4
+"299","Vagina","Female Genital System","Indiana","Other",0,15,90.5,6666818,4
+"300","Vulva","Female Genital System","Indiana","NativeAmer",0,15,90.5,6666818,5
+"301","Vulva","Female Genital System","Indiana","AsianAmer",0,15,90.5,6666818,5
+"302","Vulva","Female Genital System","Indiana","Caucasian",118,15,90.5,6666818,5
+"303","Other Female Genital Organs","Female Genital System","Indiana","NativeAmer",0,15,90.5,6666818,6
+"304","Other Female Genital Organs","Female Genital System","Indiana","AsianAmer",0,15,90.5,6666818,6
+"305","Other Female Genital Organs","Female Genital System","Indiana","Caucasian",51,15,90.5,6666818,6
+"306","Other Female Genital Organs","Female Genital System","Indiana","Other",0,15,90.5,6666818,6
+"307","Cervix Uteri","Female Genital System","Iowa","NativeAmer",0,12.3,95,3145711,0
+"308","Cervix Uteri","Female Genital System","Iowa","AsianAmer",0,12.3,95,3145711,0
+"309","Cervix Uteri","Female Genital System","Iowa","Caucasian",110,12.3,95,3145711,0
+"310","Corpus Uteri","Female Genital System","Iowa","Caucasian",574,12.3,95,3145711,1
+"311","Uterus, NOS","Female Genital System","Iowa","NativeAmer",0,12.3,95,3145711,2
+"312","Uterus, NOS","Female Genital System","Iowa","AsianAmer",0,12.3,95,3145711,2
+"313","Uterus, NOS","Female Genital System","Iowa","AfricanAmer",0,12.3,95,3145711,2
+"314","Uterus, NOS","Female Genital System","Iowa","Other",0,12.3,95,3145711,2
+"315","Ovary","Female Genital System","Iowa","Caucasian",192,12.3,95,3145711,3
+"316","Ovary","Female Genital System","Iowa","Other",0,12.3,95,3145711,3
+"317","Vagina","Female Genital System","Iowa","NativeAmer",0,12.3,95,3145711,4
+"318","Vagina","Female Genital System","Iowa","AsianAmer",0,12.3,95,3145711,4
+"319","Vagina","Female Genital System","Iowa","AfricanAmer",0,12.3,95,3145711,4
+"320","Vagina","Female Genital System","Iowa","Other",0,12.3,95,3145711,4
+"321","Vulva","Female Genital System","Iowa","NativeAmer",0,12.3,95,3145711,5
+"322","Vulva","Female Genital System","Iowa","AsianAmer",0,12.3,95,3145711,5
+"323","Vulva","Female Genital System","Iowa","Caucasian",69,12.3,95,3145711,5
+"324","Other Female Genital Organs","Female Genital System","Iowa","NativeAmer",0,12.3,95,3145711,6
+"325","Other Female Genital Organs","Female Genital System","Iowa","AfricanAmer",0,12.3,95,3145711,6
+"326","Other Female Genital Organs","Female Genital System","Iowa","Caucasian",42,12.3,95,3145711,6
+"327","Cervix Uteri","Female Genital System","Kansas","Caucasian",110,13.3,90.1,2913123,0
+"328","Corpus Uteri","Female Genital System","Kansas","AfricanAmer",18,13.3,90.1,2913123,1
+"329","Corpus Uteri","Female Genital System","Kansas","Caucasian",446,13.3,90.1,2913123,1
+"330","Uterus, NOS","Female Genital System","Kansas","AsianAmer",0,13.3,90.1,2913123,2
+"331","Uterus, NOS","Female Genital System","Kansas","AfricanAmer",0,13.3,90.1,2913123,2
+"332","Ovary","Female Genital System","Kansas","AfricanAmer",0,13.3,90.1,2913123,3
+"333","Ovary","Female Genital System","Kansas","Caucasian",169,13.3,90.1,2913123,3
+"334","Vagina","Female Genital System","Kansas","AsianAmer",0,13.3,90.1,2913123,4
+"335","Vagina","Female Genital System","Kansas","Other",0,13.3,90.1,2913123,4
+"336","Vulva","Female Genital System","Kansas","AsianAmer",0,13.3,90.1,2913123,5
+"337","Vulva","Female Genital System","Kansas","Caucasian",33,13.3,90.1,2913123,5
+"338","Other Female Genital Organs","Female Genital System","Kansas","NativeAmer",0,13.3,90.1,2913123,6
+"339","Other Female Genital Organs","Female Genital System","Kansas","AsianAmer",0,13.3,90.1,2913123,6
+"340","Other Female Genital Organs","Female Genital System","Kansas","Other",0,13.3,90.1,2913123,6
+"341","Cervix Uteri","Female Genital System","Kentucky","AsianAmer",0,18.8,94,4454189,0
+"342","Cervix Uteri","Female Genital System","Kentucky","Caucasian",197,18.8,94,4454189,0
+"343","Corpus Uteri","Female Genital System","Kentucky","NativeAmer",0,18.8,94,4454189,1
+"344","Corpus Uteri","Female Genital System","Kentucky","AfricanAmer",55,18.8,94,4454189,1
+"345","Corpus Uteri","Female Genital System","Kentucky","Caucasian",688,18.8,94,4454189,1
+"346","Uterus, NOS","Female Genital System","Kentucky","NativeAmer",0,18.8,94,4454189,2
+"347","Uterus, NOS","Female Genital System","Kentucky","AsianAmer",0,18.8,94,4454189,2
+"348","Uterus, NOS","Female Genital System","Kentucky","AfricanAmer",0,18.8,94,4454189,2
+"349","Uterus, NOS","Female Genital System","Kentucky","Other",0,18.8,94,4454189,2
+"350","Ovary","Female Genital System","Kentucky","NativeAmer",0,18.8,94,4454189,3
+"351","Ovary","Female Genital System","Kentucky","Caucasian",272,18.8,94,4454189,3
+"352","Vagina","Female Genital System","Kentucky","NativeAmer",0,18.8,94,4454189,4
+"353","Vagina","Female Genital System","Kentucky","AsianAmer",0,18.8,94,4454189,4
+"354","Vagina","Female Genital System","Kentucky","AfricanAmer",0,18.8,94,4454189,4
+"355","Vagina","Female Genital System","Kentucky","Caucasian",30,18.8,94,4454189,4
+"356","Vagina","Female Genital System","Kentucky","Other",0,18.8,94,4454189,4
+"357","Vulva","Female Genital System","Kentucky","NativeAmer",0,18.8,94,4454189,5
+"358","Vulva","Female Genital System","Kentucky","Caucasian",116,18.8,94,4454189,5
+"359","Other Female Genital Organs","Female Genital System","Kentucky","NativeAmer",0,18.8,94,4454189,6
+"360","Other Female Genital Organs","Female Genital System","Kentucky","AsianAmer",0,18.8,94,4454189,6
+"361","Other Female Genital Organs","Female Genital System","Kentucky","Caucasian",27,18.8,94,4454189,6
+"362","Other Female Genital Organs","Female Genital System","Kentucky","Other",0,18.8,94,4454189,6
+"363","Cervix Uteri","Female Genital System","Louisiana","NativeAmer",0,19.7,88.2,4684333,0
+"364","Cervix Uteri","Female Genital System","Louisiana","AfricanAmer",86,19.7,88.2,4684333,0
+"365","Cervix Uteri","Female Genital System","Louisiana","Caucasian",145,19.7,88.2,4684333,0
+"366","Corpus Uteri","Female Genital System","Louisiana","AfricanAmer",166,19.7,88.2,4684333,1
+"367","Corpus Uteri","Female Genital System","Louisiana","Caucasian",407,19.7,88.2,4684333,1
+"368","Uterus, NOS","Female Genital System","Louisiana","NativeAmer",0,19.7,88.2,4684333,2
+"369","Uterus, NOS","Female Genital System","Louisiana","AsianAmer",0,19.7,88.2,4684333,2
+"370","Uterus, NOS","Female Genital System","Louisiana","Other",0,19.7,88.2,4684333,2
+"371","Ovary","Female Genital System","Louisiana","AfricanAmer",71,19.7,88.2,4684333,3
+"372","Ovary","Female Genital System","Louisiana","Caucasian",211,19.7,88.2,4684333,3
+"373","Vagina","Female Genital System","Louisiana","NativeAmer",0,19.7,88.2,4684333,4
+"374","Vagina","Female Genital System","Louisiana","Other",0,19.7,88.2,4684333,4
+"375","Vulva","Female Genital System","Louisiana","NativeAmer",0,19.7,88.2,4684333,5
+"376","Vulva","Female Genital System","Louisiana","AsianAmer",0,19.7,88.2,4684333,5
+"377","Vulva","Female Genital System","Louisiana","AfricanAmer",20,19.7,88.2,4684333,5
+"378","Vulva","Female Genital System","Louisiana","Caucasian",64,19.7,88.2,4684333,5
+"379","Vulva","Female Genital System","Louisiana","Other",0,19.7,88.2,4684333,5
+"380","Other Female Genital Organs","Female Genital System","Louisiana","NativeAmer",0,19.7,88.2,4684333,6
+"381","Other Female Genital Organs","Female Genital System","Louisiana","AsianAmer",0,19.7,88.2,4684333,6
+"382","Other Female Genital Organs","Female Genital System","Louisiana","Caucasian",21,19.7,88.2,4684333,6
+"383","Other Female Genital Organs","Female Genital System","Louisiana","Other",0,19.7,88.2,4684333,6
+"384","Cervix Uteri","Female Genital System","Maine","NativeAmer",0,13.5,89.9,1335907,0
+"385","Cervix Uteri","Female Genital System","Maine","AfricanAmer",0,13.5,89.9,1335907,0
+"386","Cervix Uteri","Female Genital System","Maine","Caucasian",38,13.5,89.9,1335907,0
+"387","Cervix Uteri","Female Genital System","Maine","Other",0,13.5,89.9,1335907,0
+"388","Corpus Uteri","Female Genital System","Maine","Caucasian",310,13.5,89.9,1335907,1
+"389","Corpus Uteri","Female Genital System","Maine","Other",0,13.5,89.9,1335907,1
+"390","Uterus, NOS","Female Genital System","Maine","NativeAmer",0,13.5,89.9,1335907,2
+"391","Uterus, NOS","Female Genital System","Maine","AsianAmer",0,13.5,89.9,1335907,2
+"392","Uterus, NOS","Female Genital System","Maine","Other",0,13.5,89.9,1335907,2
+"393","Ovary","Female Genital System","Maine","NativeAmer",0,13.5,89.9,1335907,3
+"394","Ovary","Female Genital System","Maine","AfricanAmer",0,13.5,89.9,1335907,3
+"395","Ovary","Female Genital System","Maine","Caucasian",71,13.5,89.9,1335907,3
+"396","Ovary","Female Genital System","Maine","Other",0,13.5,89.9,1335907,3
+"397","Vagina","Female Genital System","Maine","NativeAmer",0,13.5,89.9,1335907,4
+"398","Vagina","Female Genital System","Maine","AsianAmer",0,13.5,89.9,1335907,4
+"399","Vagina","Female Genital System","Maine","Other",0,13.5,89.9,1335907,4
+"400","Vulva","Female Genital System","Maine","NativeAmer",0,13.5,89.9,1335907,5
+"401","Vulva","Female Genital System","Maine","AsianAmer",0,13.5,89.9,1335907,5
+"402","Vulva","Female Genital System","Maine","AfricanAmer",0,13.5,89.9,1335907,5
+"403","Vulva","Female Genital System","Maine","Caucasian",42,13.5,89.9,1335907,5
+"404","Vulva","Female Genital System","Maine","Other",0,13.5,89.9,1335907,5
+"405","Other Female Genital Organs","Female Genital System","Maine","NativeAmer",0,13.5,89.9,1335907,6
+"406","Other Female Genital Organs","Female Genital System","Maine","AsianAmer",0,13.5,89.9,1335907,6
+"407","Other Female Genital Organs","Female Genital System","Maine","AfricanAmer",0,13.5,89.9,1335907,6
+"408","Other Female Genital Organs","Female Genital System","Maine","Caucasian",18,13.5,89.9,1335907,6
+"409","Other Female Genital Organs","Female Genital System","Maine","Other",0,13.5,89.9,1335907,6
+"410","Cervix Uteri","Female Genital System","Maryland","NativeAmer",0,9.9,93,6052177,0
+"411","Cervix Uteri","Female Genital System","Maryland","AfricanAmer",75,9.9,93,6052177,0
+"412","Cervix Uteri","Female Genital System","Maryland","Caucasian",127,9.9,93,6052177,0
+"413","Corpus Uteri","Female Genital System","Maryland","AsianAmer",37,9.9,93,6052177,1
+"414","Corpus Uteri","Female Genital System","Maryland","AfricanAmer",326,9.9,93,6052177,1
+"415","Corpus Uteri","Female Genital System","Maryland","Caucasian",697,9.9,93,6052177,1
+"416","Corpus Uteri","Female Genital System","Maryland","Other",24,9.9,93,6052177,1
+"417","Uterus, NOS","Female Genital System","Maryland","NativeAmer",0,9.9,93,6052177,2
+"418","Uterus, NOS","Female Genital System","Maryland","AsianAmer",0,9.9,93,6052177,2
+"419","Uterus, NOS","Female Genital System","Maryland","AfricanAmer",17,9.9,93,6052177,2
+"420","Uterus, NOS","Female Genital System","Maryland","Caucasian",17,9.9,93,6052177,2
+"421","Ovary","Female Genital System","Maryland","AsianAmer",23,9.9,93,6052177,3
+"422","Ovary","Female Genital System","Maryland","AfricanAmer",100,9.9,93,6052177,3
+"423","Ovary","Female Genital System","Maryland","Caucasian",307,9.9,93,6052177,3
+"424","Vagina","Female Genital System","Maryland","NativeAmer",0,9.9,93,6052177,4
+"425","Vagina","Female Genital System","Maryland","Caucasian",17,9.9,93,6052177,4
+"426","Vagina","Female Genital System","Maryland","Other",0,9.9,93,6052177,4
+"427","Vulva","Female Genital System","Maryland","NativeAmer",0,9.9,93,6052177,5
+"428","Vulva","Female Genital System","Maryland","AsianAmer",0,9.9,93,6052177,5
+"429","Vulva","Female Genital System","Maryland","AfricanAmer",17,9.9,93,6052177,5
+"430","Vulva","Female Genital System","Maryland","Caucasian",78,9.9,93,6052177,5
+"431","Vulva","Female Genital System","Maryland","Other",0,9.9,93,6052177,5
+"432","Other Female Genital Organs","Female Genital System","Maryland","NativeAmer",0,9.9,93,6052177,6
+"433","Other Female Genital Organs","Female Genital System","Maryland","Caucasian",34,9.9,93,6052177,6
+"434","Cervix Uteri","Female Genital System","Massachusetts","NativeAmer",0,11.4,97,6859819,0
+"435","Cervix Uteri","Female Genital System","Massachusetts","AfricanAmer",25,11.4,97,6859819,0
+"436","Cervix Uteri","Female Genital System","Massachusetts","Caucasian",145,11.4,97,6859819,0
+"437","Corpus Uteri","Female Genital System","Massachusetts","NativeAmer",0,11.4,97,6859819,1
+"438","Corpus Uteri","Female Genital System","Massachusetts","AsianAmer",42,11.4,97,6859819,1
+"439","Corpus Uteri","Female Genital System","Massachusetts","AfricanAmer",82,11.4,97,6859819,1
+"440","Corpus Uteri","Female Genital System","Massachusetts","Caucasian",1175,11.4,97,6859819,1
+"441","Corpus Uteri","Female Genital System","Massachusetts","Other",30,11.4,97,6859819,1
+"442","Uterus, NOS","Female Genital System","Massachusetts","NativeAmer",0,11.4,97,6859819,2
+"443","Uterus, NOS","Female Genital System","Massachusetts","Caucasian",24,11.4,97,6859819,2
+"444","Ovary","Female Genital System","Massachusetts","AsianAmer",22,11.4,97,6859819,3
+"445","Ovary","Female Genital System","Massachusetts","AfricanAmer",28,11.4,97,6859819,3
+"446","Ovary","Female Genital System","Massachusetts","Caucasian",429,11.4,97,6859819,3
+"447","Vagina","Female Genital System","Massachusetts","NativeAmer",0,11.4,97,6859819,4
+"448","Vagina","Female Genital System","Massachusetts","AfricanAmer",0,11.4,97,6859819,4
+"449","Vagina","Female Genital System","Massachusetts","Other",0,11.4,97,6859819,4
+"450","Vulva","Female Genital System","Massachusetts","NativeAmer",0,11.4,97,6859819,5
+"451","Vulva","Female Genital System","Massachusetts","Caucasian",114,11.4,97,6859819,5
+"452","Other Female Genital Organs","Female Genital System","Massachusetts","NativeAmer",0,11.4,97,6859819,6
+"453","Other Female Genital Organs","Female Genital System","Massachusetts","Caucasian",94,11.4,97,6859819,6
+"454","Other Female Genital Organs","Female Genital System","Massachusetts","Other",0,11.4,97,6859819,6
+"455","Cervix Uteri","Female Genital System","Michigan","AfricanAmer",48,16.3,93.6,9962311,0
+"456","Cervix Uteri","Female Genital System","Michigan","Caucasian",317,16.3,93.6,9962311,0
+"457","Corpus Uteri","Female Genital System","Michigan","AsianAmer",21,16.3,93.6,9962311,1
+"458","Corpus Uteri","Female Genital System","Michigan","AfricanAmer",214,16.3,93.6,9962311,1
+"459","Corpus Uteri","Female Genital System","Michigan","Caucasian",1582,16.3,93.6,9962311,1
+"460","Uterus, NOS","Female Genital System","Michigan","Caucasian",35,16.3,93.6,9962311,2
+"461","Uterus, NOS","Female Genital System","Michigan","Other",0,16.3,93.6,9962311,2
+"462","Ovary","Female Genital System","Michigan","AfricanAmer",71,16.3,93.6,9962311,3
+"463","Ovary","Female Genital System","Michigan","Caucasian",572,16.3,93.6,9962311,3
+"464","Vagina","Female Genital System","Michigan","NativeAmer",0,16.3,93.6,9962311,4
+"465","Vagina","Female Genital System","Michigan","AsianAmer",0,16.3,93.6,9962311,4
+"466","Vagina","Female Genital System","Michigan","Caucasian",35,16.3,93.6,9962311,4
+"467","Vagina","Female Genital System","Michigan","Other",0,16.3,93.6,9962311,4
+"468","Vulva","Female Genital System","Michigan","AsianAmer",0,16.3,93.6,9962311,5
+"469","Vulva","Female Genital System","Michigan","Caucasian",187,16.3,93.6,9962311,5
+"470","Other Female Genital Organs","Female Genital System","Michigan","NativeAmer",0,16.3,93.6,9962311,6
+"471","Other Female Genital Organs","Female Genital System","Michigan","Caucasian",89,16.3,93.6,9962311,6
+"472","Other Female Genital Organs","Female Genital System","Michigan","Other",0,16.3,93.6,9962311,6
+"473","Cervix Uteri","Female Genital System","Minnesota","Caucasian",136,10.8,95.2,5576606,0
+"474","Corpus Uteri","Female Genital System","Minnesota","AsianAmer",21,10.8,95.2,5576606,1
+"475","Corpus Uteri","Female Genital System","Minnesota","AfricanAmer",28,10.8,95.2,5576606,1
+"476","Corpus Uteri","Female Genital System","Minnesota","Caucasian",1010,10.8,95.2,5576606,1
+"477","Corpus Uteri","Female Genital System","Minnesota","Other",17,10.8,95.2,5576606,1
+"478","Uterus, NOS","Female Genital System","Minnesota","NativeAmer",0,10.8,95.2,5576606,2
+"479","Uterus, NOS","Female Genital System","Minnesota","AfricanAmer",0,10.8,95.2,5576606,2
+"480","Uterus, NOS","Female Genital System","Minnesota","Other",0,10.8,95.2,5576606,2
+"481","Ovary","Female Genital System","Minnesota","Caucasian",327,10.8,95.2,5576606,3
+"482","Vagina","Female Genital System","Minnesota","AsianAmer",0,10.8,95.2,5576606,4
+"483","Vagina","Female Genital System","Minnesota","AfricanAmer",0,10.8,95.2,5576606,4
+"484","Vagina","Female Genital System","Minnesota","Other",0,10.8,95.2,5576606,4
+"485","Vulva","Female Genital System","Minnesota","AfricanAmer",0,10.8,95.2,5576606,5
+"486","Vulva","Female Genital System","Minnesota","Caucasian",96,10.8,95.2,5576606,5
+"487","Other Female Genital Organs","Female Genital System","Minnesota","NativeAmer",0,10.8,95.2,5576606,6
+"488","Other Female Genital Organs","Female Genital System","Minnesota","Caucasian",108,10.8,95.2,5576606,6
+"489","Cervix Uteri","Female Genital System","Mississippi","NativeAmer",0,22.3,86,2984100,0
+"490","Cervix Uteri","Female Genital System","Mississippi","AfricanAmer",58,22.3,86,2984100,0
+"491","Cervix Uteri","Female Genital System","Mississippi","Caucasian",84,22.3,86,2984100,0
+"492","Corpus Uteri","Female Genital System","Mississippi","AfricanAmer",139,22.3,86,2984100,1
+"493","Corpus Uteri","Female Genital System","Mississippi","Caucasian",276,22.3,86,2984100,1
+"494","Uterus, NOS","Female Genital System","Mississippi","NativeAmer",0,22.3,86,2984100,2
+"495","Uterus, NOS","Female Genital System","Mississippi","AsianAmer",0,22.3,86,2984100,2
+"496","Uterus, NOS","Female Genital System","Mississippi","Other",0,22.3,86,2984100,2
+"497","Ovary","Female Genital System","Mississippi","AfricanAmer",46,22.3,86,2984100,3
+"498","Ovary","Female Genital System","Mississippi","Caucasian",112,22.3,86,2984100,3
+"499","Ovary","Female Genital System","Mississippi","Other",0,22.3,86,2984100,3
+"500","Vagina","Female Genital System","Mississippi","NativeAmer",0,22.3,86,2984100,4
+"501","Vagina","Female Genital System","Mississippi","AsianAmer",0,22.3,86,2984100,4
+"502","Vagina","Female Genital System","Mississippi","Other",0,22.3,86,2984100,4
+"503","Vulva","Female Genital System","Mississippi","NativeAmer",0,22.3,86,2984100,5
+"504","Vulva","Female Genital System","Mississippi","AsianAmer",0,22.3,86,2984100,5
+"505","Vulva","Female Genital System","Mississippi","Caucasian",39,22.3,86,2984100,5
+"506","Vulva","Female Genital System","Mississippi","Other",0,22.3,86,2984100,5
+"507","Other Female Genital Organs","Female Genital System","Mississippi","NativeAmer",0,22.3,86,2984100,6
+"508","Other Female Genital Organs","Female Genital System","Mississippi","AsianAmer",0,22.3,86,2984100,6
+"509","Other Female Genital Organs","Female Genital System","Mississippi","Other",0,22.3,86,2984100,6
+"510","Cervix Uteri","Female Genital System","Missouri","AfricanAmer",33,15.3,89.4,6113532,0
+"511","Cervix Uteri","Female Genital System","Missouri","Caucasian",207,15.3,89.4,6113532,0
+"512","Corpus Uteri","Female Genital System","Missouri","AfricanAmer",96,15.3,89.4,6113532,1
+"513","Corpus Uteri","Female Genital System","Missouri","Caucasian",935,15.3,89.4,6113532,1
+"514","Uterus, NOS","Female Genital System","Missouri","NativeAmer",0,15.3,89.4,6113532,2
+"515","Uterus, NOS","Female Genital System","Missouri","AsianAmer",0,15.3,89.4,6113532,2
+"516","Uterus, NOS","Female Genital System","Missouri","Caucasian",23,15.3,89.4,6113532,2
+"517","Uterus, NOS","Female Genital System","Missouri","Other",0,15.3,89.4,6113532,2
+"518","Ovary","Female Genital System","Missouri","NativeAmer",0,15.3,89.4,6113532,3
+"519","Ovary","Female Genital System","Missouri","AfricanAmer",25,15.3,89.4,6113532,3
+"520","Ovary","Female Genital System","Missouri","Caucasian",371,15.3,89.4,6113532,3
+"521","Vagina","Female Genital System","Missouri","NativeAmer",0,15.3,89.4,6113532,4
+"522","Vagina","Female Genital System","Missouri","Caucasian",25,15.3,89.4,6113532,4
+"523","Vulva","Female Genital System","Missouri","NativeAmer",0,15.3,89.4,6113532,5
+"524","Vulva","Female Genital System","Missouri","AsianAmer",0,15.3,89.4,6113532,5
+"525","Vulva","Female Genital System","Missouri","Caucasian",88,15.3,89.4,6113532,5
+"526","Vulva","Female Genital System","Missouri","Other",0,15.3,89.4,6113532,5
+"527","Other Female Genital Organs","Female Genital System","Missouri","NativeAmer",0,15.3,89.4,6113532,6
+"528","Other Female Genital Organs","Female Genital System","Missouri","Caucasian",41,15.3,89.4,6113532,6
+"529","Other Female Genital Organs","Female Genital System","Missouri","Other",0,15.3,89.4,6113532,6
+"530","Cervix Uteri","Female Genital System","Montana","AfricanAmer",0,14.9,90,1050493,0
+"531","Cervix Uteri","Female Genital System","Montana","Caucasian",35,14.9,90,1050493,0
+"532","Cervix Uteri","Female Genital System","Montana","Other",0,14.9,90,1050493,0
+"533","Corpus Uteri","Female Genital System","Montana","AsianAmer",0,14.9,90,1050493,1
+"534","Corpus Uteri","Female Genital System","Montana","AfricanAmer",0,14.9,90,1050493,1
+"535","Corpus Uteri","Female Genital System","Montana","Caucasian",154,14.9,90,1050493,1
+"536","Uterus, NOS","Female Genital System","Montana","NativeAmer",0,14.9,90,1050493,2
+"537","Uterus, NOS","Female Genital System","Montana","AsianAmer",0,14.9,90,1050493,2
+"538","Uterus, NOS","Female Genital System","Montana","AfricanAmer",0,14.9,90,1050493,2
+"539","Uterus, NOS","Female Genital System","Montana","Caucasian",0,14.9,90,1050493,2
+"540","Uterus, NOS","Female Genital System","Montana","Other",0,14.9,90,1050493,2
+"541","Ovary","Female Genital System","Montana","AsianAmer",0,14.9,90,1050493,3
+"542","Ovary","Female Genital System","Montana","AfricanAmer",0,14.9,90,1050493,3
+"543","Ovary","Female Genital System","Montana","Caucasian",71,14.9,90,1050493,3
+"544","Ovary","Female Genital System","Montana","Other",0,14.9,90,1050493,3
+"545","Vagina","Female Genital System","Montana","NativeAmer",0,14.9,90,1050493,4
+"546","Vagina","Female Genital System","Montana","AsianAmer",0,14.9,90,1050493,4
+"547","Vagina","Female Genital System","Montana","AfricanAmer",0,14.9,90,1050493,4
+"548","Vagina","Female Genital System","Montana","Other",0,14.9,90,1050493,4
+"549","Vulva","Female Genital System","Montana","AsianAmer",0,14.9,90,1050493,5
+"550","Vulva","Female Genital System","Montana","AfricanAmer",0,14.9,90,1050493,5
+"551","Other Female Genital Organs","Female Genital System","Montana","NativeAmer",0,14.9,90,1050493,6
+"552","Other Female Genital Organs","Female Genital System","Montana","AsianAmer",0,14.9,90,1050493,6
+"553","Other Female Genital Organs","Female Genital System","Montana","AfricanAmer",0,14.9,90,1050493,6
+"554","Other Female Genital Organs","Female Genital System","Montana","Other",0,14.9,90,1050493,6
+"555","Cervix Uteri","Female Genital System","Nebraska","NativeAmer",0,12.4,90.3,1920076,0
+"556","Cervix Uteri","Female Genital System","Nebraska","Caucasian",66,12.4,90.3,1920076,0
+"557","Corpus Uteri","Female Genital System","Nebraska","Caucasian",302,12.4,90.3,1920076,1
+"558","Uterus, NOS","Female Genital System","Nebraska","NativeAmer",0,12.4,90.3,1920076,2
+"559","Uterus, NOS","Female Genital System","Nebraska","AsianAmer",0,12.4,90.3,1920076,2
+"560","Uterus, NOS","Female Genital System","Nebraska","AfricanAmer",0,12.4,90.3,1920076,2
+"561","Uterus, NOS","Female Genital System","Nebraska","Other",0,12.4,90.3,1920076,2
+"562","Ovary","Female Genital System","Nebraska","NativeAmer",0,12.4,90.3,1920076,3
+"563","Ovary","Female Genital System","Nebraska","AsianAmer",0,12.4,90.3,1920076,3
+"564","Ovary","Female Genital System","Nebraska","Caucasian",117,12.4,90.3,1920076,3
+"565","Vagina","Female Genital System","Nebraska","NativeAmer",0,12.4,90.3,1920076,4
+"566","Vagina","Female Genital System","Nebraska","AsianAmer",0,12.4,90.3,1920076,4
+"567","Vagina","Female Genital System","Nebraska","AfricanAmer",0,12.4,90.3,1920076,4
+"568","Vagina","Female Genital System","Nebraska","Other",0,12.4,90.3,1920076,4
+"569","Vulva","Female Genital System","Nebraska","NativeAmer",0,12.4,90.3,1920076,5
+"570","Vulva","Female Genital System","Nebraska","AsianAmer",0,12.4,90.3,1920076,5
+"571","Vulva","Female Genital System","Nebraska","Caucasian",35,12.4,90.3,1920076,5
+"572","Vulva","Female Genital System","Nebraska","Other",0,12.4,90.3,1920076,5
+"573","Other Female Genital Organs","Female Genital System","Nebraska","NativeAmer",0,12.4,90.3,1920076,6
+"574","Other Female Genital Organs","Female Genital System","Nebraska","Other",0,12.4,90.3,1920076,6
+"575","Cervix Uteri","Female Genital System","Nevada","Caucasian",103,14.9,86.9,2998039,0
+"576","Corpus Uteri","Female Genital System","Nevada","AsianAmer",16,14.9,86.9,2998039,1
+"577","Corpus Uteri","Female Genital System","Nevada","AfricanAmer",19,14.9,86.9,2998039,1
+"578","Corpus Uteri","Female Genital System","Nevada","Caucasian",312,14.9,86.9,2998039,1
+"579","Uterus, NOS","Female Genital System","Nevada","NativeAmer",0,14.9,86.9,2998039,2
+"580","Ovary","Female Genital System","Nevada","AsianAmer",20,14.9,86.9,2998039,3
+"581","Ovary","Female Genital System","Nevada","Caucasian",117,14.9,86.9,2998039,3
+"582","Vagina","Female Genital System","Nevada","NativeAmer",0,14.9,86.9,2998039,4
+"583","Vagina","Female Genital System","Nevada","Other",0,14.9,86.9,2998039,4
+"584","Vulva","Female Genital System","Nevada","AfricanAmer",0,14.9,86.9,2998039,5
+"585","Vulva","Female Genital System","Nevada","Caucasian",34,14.9,86.9,2998039,5
+"586","Vulva","Female Genital System","Nevada","Other",0,14.9,86.9,2998039,5
+"587","Other Female Genital Organs","Female Genital System","Nevada","NativeAmer",0,14.9,86.9,2998039,6
+"588","Other Female Genital Organs","Female Genital System","Nevada","Other",0,14.9,86.9,2998039,6
+"589","Cervix Uteri","Female Genital System","New Hampshire","NativeAmer",0,8.5,92.8,1342795,0
+"590","Cervix Uteri","Female Genital System","New Hampshire","AfricanAmer",0,8.5,92.8,1342795,0
+"591","Cervix Uteri","Female Genital System","New Hampshire","Caucasian",39,8.5,92.8,1342795,0
+"592","Corpus Uteri","Female Genital System","New Hampshire","NativeAmer",0,8.5,92.8,1342795,1
+"593","Corpus Uteri","Female Genital System","New Hampshire","AfricanAmer",0,8.5,92.8,1342795,1
+"594","Corpus Uteri","Female Genital System","New Hampshire","Caucasian",264,8.5,92.8,1342795,1
+"595","Uterus, NOS","Female Genital System","New Hampshire","NativeAmer",0,8.5,92.8,1342795,2
+"596","Uterus, NOS","Female Genital System","New Hampshire","AsianAmer",0,8.5,92.8,1342795,2
+"597","Uterus, NOS","Female Genital System","New Hampshire","AfricanAmer",0,8.5,92.8,1342795,2
+"598","Uterus, NOS","Female Genital System","New Hampshire","Other",0,8.5,92.8,1342795,2
+"599","Ovary","Female Genital System","New Hampshire","NativeAmer",0,8.5,92.8,1342795,3
+"600","Ovary","Female Genital System","New Hampshire","AfricanAmer",0,8.5,92.8,1342795,3
+"601","Ovary","Female Genital System","New Hampshire","Caucasian",82,8.5,92.8,1342795,3
+"602","Ovary","Female Genital System","New Hampshire","Other",0,8.5,92.8,1342795,3
+"603","Vagina","Female Genital System","New Hampshire","NativeAmer",0,8.5,92.8,1342795,4
+"604","Vagina","Female Genital System","New Hampshire","AsianAmer",0,8.5,92.8,1342795,4
+"605","Vagina","Female Genital System","New Hampshire","AfricanAmer",0,8.5,92.8,1342795,4
+"606","Vagina","Female Genital System","New Hampshire","Other",0,8.5,92.8,1342795,4
+"607","Vulva","Female Genital System","New Hampshire","NativeAmer",0,8.5,92.8,1342795,5
+"608","Vulva","Female Genital System","New Hampshire","AsianAmer",0,8.5,92.8,1342795,5
+"609","Vulva","Female Genital System","New Hampshire","AfricanAmer",0,8.5,92.8,1342795,5
+"610","Vulva","Female Genital System","New Hampshire","Caucasian",28,8.5,92.8,1342795,5
+"611","Vulva","Female Genital System","New Hampshire","Other",0,8.5,92.8,1342795,5
+"612","Other Female Genital Organs","Female Genital System","New Hampshire","NativeAmer",0,8.5,92.8,1342795,6
+"613","Other Female Genital Organs","Female Genital System","New Hampshire","AsianAmer",0,8.5,92.8,1342795,6
+"614","Other Female Genital Organs","Female Genital System","New Hampshire","AfricanAmer",0,8.5,92.8,1342795,6
+"615","Other Female Genital Organs","Female Genital System","New Hampshire","Caucasian",23,8.5,92.8,1342795,6
+"616","Other Female Genital Organs","Female Genital System","New Hampshire","Other",0,8.5,92.8,1342795,6
+"617","Cervix Uteri","Female Genital System","New Jersey","AsianAmer",27,10.9,90.8,9005644,0
+"618","Cervix Uteri","Female Genital System","New Jersey","AfricanAmer",71,10.9,90.8,9005644,0
+"619","Cervix Uteri","Female Genital System","New Jersey","Caucasian",305,10.9,90.8,9005644,0
+"620","Corpus Uteri","Female Genital System","New Jersey","NativeAmer",0,10.9,90.8,9005644,1
+"621","Corpus Uteri","Female Genital System","New Jersey","AsianAmer",94,10.9,90.8,9005644,1
+"622","Corpus Uteri","Female Genital System","New Jersey","AfricanAmer",221,10.9,90.8,9005644,1
+"623","Corpus Uteri","Female Genital System","New Jersey","Caucasian",1466,10.9,90.8,9005644,1
+"624","Corpus Uteri","Female Genital System","New Jersey","Other",31,10.9,90.8,9005644,1
+"625","Uterus, NOS","Female Genital System","New Jersey","NativeAmer",0,10.9,90.8,9005644,2
+"626","Uterus, NOS","Female Genital System","New Jersey","AfricanAmer",23,10.9,90.8,9005644,2
+"627","Uterus, NOS","Female Genital System","New Jersey","Caucasian",56,10.9,90.8,9005644,2
+"628","Uterus, NOS","Female Genital System","New Jersey","Other",0,10.9,90.8,9005644,2
+"629","Ovary","Female Genital System","New Jersey","NativeAmer",0,10.9,90.8,9005644,3
+"630","Ovary","Female Genital System","New Jersey","AsianAmer",64,10.9,90.8,9005644,3
+"631","Ovary","Female Genital System","New Jersey","AfricanAmer",77,10.9,90.8,9005644,3
+"632","Ovary","Female Genital System","New Jersey","Caucasian",546,10.9,90.8,9005644,3
+"633","Vagina","Female Genital System","New Jersey","NativeAmer",0,10.9,90.8,9005644,4
+"634","Vagina","Female Genital System","New Jersey","AsianAmer",0,10.9,90.8,9005644,4
+"635","Vagina","Female Genital System","New Jersey","Caucasian",29,10.9,90.8,9005644,4
+"636","Vulva","Female Genital System","New Jersey","NativeAmer",0,10.9,90.8,9005644,5
+"637","Vulva","Female Genital System","New Jersey","Caucasian",152,10.9,90.8,9005644,5
+"638","Other Female Genital Organs","Female Genital System","New Jersey","NativeAmer",0,10.9,90.8,9005644,6
+"639","Other Female Genital Organs","Female Genital System","New Jersey","Caucasian",81,10.9,90.8,9005644,6
+"640","Cervix Uteri","Female Genital System","New Mexico","AfricanAmer",0,20.9,88.8,2088070,0
+"641","Cervix Uteri","Female Genital System","New Mexico","Caucasian",70,20.9,88.8,2088070,0
+"642","Corpus Uteri","Female Genital System","New Mexico","NativeAmer",29,20.9,88.8,2088070,1
+"643","Corpus Uteri","Female Genital System","New Mexico","Caucasian",259,20.9,88.8,2088070,1
+"644","Uterus, NOS","Female Genital System","New Mexico","NativeAmer",0,20.9,88.8,2088070,2
+"645","Uterus, NOS","Female Genital System","New Mexico","AfricanAmer",0,20.9,88.8,2088070,2
+"646","Ovary","Female Genital System","New Mexico","AsianAmer",0,20.9,88.8,2088070,3
+"647","Ovary","Female Genital System","New Mexico","AfricanAmer",0,20.9,88.8,2088070,3
+"648","Ovary","Female Genital System","New Mexico","Caucasian",152,20.9,88.8,2088070,3
+"649","Ovary","Female Genital System","New Mexico","Other",0,20.9,88.8,2088070,3
+"650","Vagina","Female Genital System","New Mexico","NativeAmer",0,20.9,88.8,2088070,4
+"651","Vagina","Female Genital System","New Mexico","AsianAmer",0,20.9,88.8,2088070,4
+"652","Vagina","Female Genital System","New Mexico","AfricanAmer",0,20.9,88.8,2088070,4
+"653","Vagina","Female Genital System","New Mexico","Other",0,20.9,88.8,2088070,4
+"654","Vulva","Female Genital System","New Mexico","AsianAmer",0,20.9,88.8,2088070,5
+"655","Vulva","Female Genital System","New Mexico","AfricanAmer",0,20.9,88.8,2088070,5
+"656","Vulva","Female Genital System","New Mexico","Caucasian",18,20.9,88.8,2088070,5
+"657","Vulva","Female Genital System","New Mexico","Other",0,20.9,88.8,2088070,5
+"658","Other Female Genital Organs","Female Genital System","New Mexico","AsianAmer",0,20.9,88.8,2088070,6
+"659","Other Female Genital Organs","Female Genital System","New Mexico","AfricanAmer",0,20.9,88.8,2088070,6
+"660","Other Female Genital Organs","Female Genital System","New Mexico","Caucasian",22,20.9,88.8,2088070,6
+"661","Other Female Genital Organs","Female Genital System","New Mexico","Other",0,20.9,88.8,2088070,6
+"662","Cervix Uteri","Female Genital System","New York","AsianAmer",80,15.5,92.9,19849399,0
+"663","Cervix Uteri","Female Genital System","New York","AfricanAmer",198,15.5,92.9,19849399,0
+"664","Cervix Uteri","Female Genital System","New York","Caucasian",552,15.5,92.9,19849399,0
+"665","Cervix Uteri","Female Genital System","New York","Other",31,15.5,92.9,19849399,0
+"666","Corpus Uteri","Female Genital System","New York","AsianAmer",214,15.5,92.9,19849399,1
+"667","Corpus Uteri","Female Genital System","New York","AfricanAmer",665,15.5,92.9,19849399,1
+"668","Corpus Uteri","Female Genital System","New York","Caucasian",3032,15.5,92.9,19849399,1
+"669","Corpus Uteri","Female Genital System","New York","Other",76,15.5,92.9,19849399,1
+"670","Uterus, NOS","Female Genital System","New York","NativeAmer",0,15.5,92.9,19849399,2
+"671","Uterus, NOS","Female Genital System","New York","AfricanAmer",48,15.5,92.9,19849399,2
+"672","Uterus, NOS","Female Genital System","New York","Caucasian",82,15.5,92.9,19849399,2
+"673","Ovary","Female Genital System","New York","AsianAmer",104,15.5,92.9,19849399,3
+"674","Ovary","Female Genital System","New York","AfricanAmer",183,15.5,92.9,19849399,3
+"675","Ovary","Female Genital System","New York","Caucasian",1167,15.5,92.9,19849399,3
+"676","Ovary","Female Genital System","New York","Other",30,15.5,92.9,19849399,3
+"677","Vagina","Female Genital System","New York","NativeAmer",0,15.5,92.9,19849399,4
+"678","Vagina","Female Genital System","New York","AfricanAmer",17,15.5,92.9,19849399,4
+"679","Vagina","Female Genital System","New York","Caucasian",66,15.5,92.9,19849399,4
+"680","Vulva","Female Genital System","New York","NativeAmer",0,15.5,92.9,19849399,5
+"681","Vulva","Female Genital System","New York","AfricanAmer",43,15.5,92.9,19849399,5
+"682","Vulva","Female Genital System","New York","Caucasian",297,15.5,92.9,19849399,5
+"683","Other Female Genital Organs","Female Genital System","New York","NativeAmer",0,15.5,92.9,19849399,6
+"684","Other Female Genital Organs","Female Genital System","New York","AfricanAmer",35,15.5,92.9,19849399,6
+"685","Other Female Genital Organs","Female Genital System","New York","Caucasian",160,15.5,92.9,19849399,6
+"686","Cervix Uteri","Female Genital System","North Carolina","AfricanAmer",95,16.8,87.8,10273419,0
+"687","Cervix Uteri","Female Genital System","North Carolina","Caucasian",249,16.8,87.8,10273419,0
+"688","Cervix Uteri","Female Genital System","North Carolina","Other",19,16.8,87.8,10273419,0
+"689","Corpus Uteri","Female Genital System","North Carolina","AsianAmer",22,16.8,87.8,10273419,1
+"690","Corpus Uteri","Female Genital System","North Carolina","AfricanAmer",331,16.8,87.8,10273419,1
+"691","Corpus Uteri","Female Genital System","North Carolina","Caucasian",1222,16.8,87.8,10273419,1
+"692","Corpus Uteri","Female Genital System","North Carolina","Other",32,16.8,87.8,10273419,1
+"693","Uterus, NOS","Female Genital System","North Carolina","AfricanAmer",21,16.8,87.8,10273419,2
+"694","Uterus, NOS","Female Genital System","North Carolina","Caucasian",28,16.8,87.8,10273419,2
+"695","Ovary","Female Genital System","North Carolina","AfricanAmer",98,16.8,87.8,10273419,3
+"696","Ovary","Female Genital System","North Carolina","Caucasian",529,16.8,87.8,10273419,3
+"697","Vagina","Female Genital System","North Carolina","NativeAmer",0,16.8,87.8,10273419,4
+"698","Vagina","Female Genital System","North Carolina","AsianAmer",0,16.8,87.8,10273419,4
+"699","Vagina","Female Genital System","North Carolina","AfricanAmer",16,16.8,87.8,10273419,4
+"700","Vagina","Female Genital System","North Carolina","Caucasian",29,16.8,87.8,10273419,4
+"701","Vagina","Female Genital System","North Carolina","Other",0,16.8,87.8,10273419,4
+"702","Vulva","Female Genital System","North Carolina","NativeAmer",0,16.8,87.8,10273419,5
+"703","Vulva","Female Genital System","North Carolina","AfricanAmer",20,16.8,87.8,10273419,5
+"704","Vulva","Female Genital System","North Carolina","Caucasian",154,16.8,87.8,10273419,5
+"705","Other Female Genital Organs","Female Genital System","North Carolina","AfricanAmer",20,16.8,87.8,10273419,6
+"706","Other Female Genital Organs","Female Genital System","North Carolina","Caucasian",78,16.8,87.8,10273419,6
+"707","Cervix Uteri","Female Genital System","North Dakota","Other",0,11.2,92.4,755393,0
+"708","Corpus Uteri","Female Genital System","North Dakota","Caucasian",96,11.2,92.4,755393,1
+"709","Uterus, NOS","Female Genital System","North Dakota","NativeAmer",0,11.2,92.4,755393,2
+"710","Uterus, NOS","Female Genital System","North Dakota","AsianAmer",0,11.2,92.4,755393,2
+"711","Uterus, NOS","Female Genital System","North Dakota","AfricanAmer",0,11.2,92.4,755393,2
+"712","Uterus, NOS","Female Genital System","North Dakota","Other",0,11.2,92.4,755393,2
+"713","Ovary","Female Genital System","North Dakota","NativeAmer",0,11.2,92.4,755393,3
+"714","Ovary","Female Genital System","North Dakota","AsianAmer",0,11.2,92.4,755393,3
+"715","Ovary","Female Genital System","North Dakota","AfricanAmer",0,11.2,92.4,755393,3
+"716","Ovary","Female Genital System","North Dakota","Caucasian",43,11.2,92.4,755393,3
+"717","Ovary","Female Genital System","North Dakota","Other",0,11.2,92.4,755393,3
+"718","Vagina","Female Genital System","North Dakota","NativeAmer",0,11.2,92.4,755393,4
+"719","Vagina","Female Genital System","North Dakota","AsianAmer",0,11.2,92.4,755393,4
+"720","Vagina","Female Genital System","North Dakota","AfricanAmer",0,11.2,92.4,755393,4
+"721","Vagina","Female Genital System","North Dakota","Other",0,11.2,92.4,755393,4
+"722","Vulva","Female Genital System","North Dakota","NativeAmer",0,11.2,92.4,755393,5
+"723","Vulva","Female Genital System","North Dakota","AsianAmer",0,11.2,92.4,755393,5
+"724","Vulva","Female Genital System","North Dakota","AfricanAmer",0,11.2,92.4,755393,5
+"725","Vulva","Female Genital System","North Dakota","Other",0,11.2,92.4,755393,5
+"726","Other Female Genital Organs","Female Genital System","North Dakota","NativeAmer",0,11.2,92.4,755393,6
+"727","Other Female Genital Organs","Female Genital System","North Dakota","AsianAmer",0,11.2,92.4,755393,6
+"728","Other Female Genital Organs","Female Genital System","North Dakota","AfricanAmer",0,11.2,92.4,755393,6
+"729","Other Female Genital Organs","Female Genital System","North Dakota","Other",0,11.2,92.4,755393,6
+"730","Cervix Uteri","Female Genital System","Ohio","NativeAmer",0,15.4,93.3,11658609,0
+"731","Cervix Uteri","Female Genital System","Ohio","AfricanAmer",51,15.4,93.3,11658609,0
+"732","Cervix Uteri","Female Genital System","Ohio","Caucasian",414,15.4,93.3,11658609,0
+"733","Corpus Uteri","Female Genital System","Ohio","AsianAmer",22,15.4,93.3,11658609,1
+"734","Corpus Uteri","Female Genital System","Ohio","AfricanAmer",217,15.4,93.3,11658609,1
+"735","Corpus Uteri","Female Genital System","Ohio","Caucasian",1973,15.4,93.3,11658609,1
+"736","Corpus Uteri","Female Genital System","Ohio","Other",21,15.4,93.3,11658609,1
+"737","Uterus, NOS","Female Genital System","Ohio","Caucasian",119,15.4,93.3,11658609,2
+"738","Ovary","Female Genital System","Ohio","NativeAmer",0,15.4,93.3,11658609,3
+"739","Ovary","Female Genital System","Ohio","AfricanAmer",63,15.4,93.3,11658609,3
+"740","Ovary","Female Genital System","Ohio","Caucasian",734,15.4,93.3,11658609,3
+"741","Vagina","Female Genital System","Ohio","NativeAmer",0,15.4,93.3,11658609,4
+"742","Vagina","Female Genital System","Ohio","AsianAmer",0,15.4,93.3,11658609,4
+"743","Vagina","Female Genital System","Ohio","Caucasian",24,15.4,93.3,11658609,4
+"744","Vulva","Female Genital System","Ohio","AfricanAmer",22,15.4,93.3,11658609,5
+"745","Vulva","Female Genital System","Ohio","Caucasian",210,15.4,93.3,11658609,5
+"746","Other Female Genital Organs","Female Genital System","Ohio","NativeAmer",0,15.4,93.3,11658609,6
+"747","Other Female Genital Organs","Female Genital System","Ohio","Caucasian",70,15.4,93.3,11658609,6
+"748","Other Female Genital Organs","Female Genital System","Ohio","Other",0,15.4,93.3,11658609,6
+"749","Cervix Uteri","Female Genital System","Oklahoma","NativeAmer",22,16.5,84,3930864,0
+"750","Cervix Uteri","Female Genital System","Oklahoma","Caucasian",123,16.5,84,3930864,0
+"751","Corpus Uteri","Female Genital System","Oklahoma","NativeAmer",51,16.5,84,3930864,1
+"752","Corpus Uteri","Female Genital System","Oklahoma","AfricanAmer",35,16.5,84,3930864,1
+"753","Corpus Uteri","Female Genital System","Oklahoma","Caucasian",449,16.5,84,3930864,1
+"754","Uterus, NOS","Female Genital System","Oklahoma","AsianAmer",0,16.5,84,3930864,2
+"755","Uterus, NOS","Female Genital System","Oklahoma","Caucasian",20,16.5,84,3930864,2
+"756","Ovary","Female Genital System","Oklahoma","NativeAmer",28,16.5,84,3930864,3
+"757","Ovary","Female Genital System","Oklahoma","Caucasian",196,16.5,84,3930864,3
+"758","Vagina","Female Genital System","Oklahoma","AsianAmer",0,16.5,84,3930864,4
+"759","Vagina","Female Genital System","Oklahoma","AfricanAmer",0,16.5,84,3930864,4
+"760","Vulva","Female Genital System","Oklahoma","Caucasian",57,16.5,84,3930864,5
+"761","Vulva","Female Genital System","Oklahoma","Other",0,16.5,84,3930864,5
+"762","Other Female Genital Organs","Female Genital System","Oklahoma","AsianAmer",0,16.5,84,3930864,6
+"763","Other Female Genital Organs","Female Genital System","Oklahoma","Other",0,16.5,84,3930864,6
+"764","Cervix Uteri","Female Genital System","Oregon","Caucasian",127,15.7,92.6,4142776,0
+"765","Cervix Uteri","Female Genital System","Oregon","Other",0,15.7,92.6,4142776,0
+"766","Corpus Uteri","Female Genital System","Oregon","AsianAmer",18,15.7,92.6,4142776,1
+"767","Corpus Uteri","Female Genital System","Oregon","Caucasian",637,15.7,92.6,4142776,1
+"768","Uterus, NOS","Female Genital System","Oregon","AfricanAmer",0,15.7,92.6,4142776,2
+"769","Uterus, NOS","Female Genital System","Oregon","Caucasian",21,15.7,92.6,4142776,2
+"770","Uterus, NOS","Female Genital System","Oregon","Other",0,15.7,92.6,4142776,2
+"771","Ovary","Female Genital System","Oregon","Caucasian",278,15.7,92.6,4142776,3
+"772","Vagina","Female Genital System","Oregon","NativeAmer",0,15.7,92.6,4142776,4
+"773","Vagina","Female Genital System","Oregon","AsianAmer",0,15.7,92.6,4142776,4
+"774","Vagina","Female Genital System","Oregon","AfricanAmer",0,15.7,92.6,4142776,4
+"775","Vagina","Female Genital System","Oregon","Other",0,15.7,92.6,4142776,4
+"776","Vulva","Female Genital System","Oregon","NativeAmer",0,15.7,92.6,4142776,5
+"777","Vulva","Female Genital System","Oregon","AsianAmer",0,15.7,92.6,4142776,5
+"778","Vulva","Female Genital System","Oregon","AfricanAmer",0,15.7,92.6,4142776,5
+"779","Vulva","Female Genital System","Oregon","Caucasian",63,15.7,92.6,4142776,5
+"780","Vulva","Female Genital System","Oregon","Other",0,15.7,92.6,4142776,5
+"781","Other Female Genital Organs","Female Genital System","Oregon","AfricanAmer",0,15.7,92.6,4142776,6
+"782","Other Female Genital Organs","Female Genital System","Oregon","Caucasian",32,15.7,92.6,4142776,6
+"783","Other Female Genital Organs","Female Genital System","Oregon","Other",0,15.7,92.6,4142776,6
+"784","Cervix Uteri","Female Genital System","Pennsylvania","NativeAmer",0,13.3,93.2,12805537,0
+"785","Cervix Uteri","Female Genital System","Pennsylvania","AfricanAmer",66,13.3,93.2,12805537,0
+"786","Cervix Uteri","Female Genital System","Pennsylvania","Caucasian",434,13.3,93.2,12805537,0
+"787","Corpus Uteri","Female Genital System","Pennsylvania","AsianAmer",37,13.3,93.2,12805537,1
+"788","Corpus Uteri","Female Genital System","Pennsylvania","AfricanAmer",249,13.3,93.2,12805537,1
+"789","Corpus Uteri","Female Genital System","Pennsylvania","Caucasian",2571,13.3,93.2,12805537,1
+"790","Corpus Uteri","Female Genital System","Pennsylvania","Other",24,13.3,93.2,12805537,1
+"791","Uterus, NOS","Female Genital System","Pennsylvania","NativeAmer",0,13.3,93.2,12805537,2
+"792","Uterus, NOS","Female Genital System","Pennsylvania","AsianAmer",0,13.3,93.2,12805537,2
+"793","Uterus, NOS","Female Genital System","Pennsylvania","Caucasian",32,13.3,93.2,12805537,2
+"794","Ovary","Female Genital System","Pennsylvania","AsianAmer",20,13.3,93.2,12805537,3
+"795","Ovary","Female Genital System","Pennsylvania","AfricanAmer",61,13.3,93.2,12805537,3
+"796","Ovary","Female Genital System","Pennsylvania","Caucasian",906,13.3,93.2,12805537,3
+"797","Vagina","Female Genital System","Pennsylvania","NativeAmer",0,13.3,93.2,12805537,4
+"798","Vagina","Female Genital System","Pennsylvania","Caucasian",56,13.3,93.2,12805537,4
+"799","Vulva","Female Genital System","Pennsylvania","NativeAmer",0,13.3,93.2,12805537,5
+"800","Vulva","Female Genital System","Pennsylvania","AsianAmer",0,13.3,93.2,12805537,5
+"801","Vulva","Female Genital System","Pennsylvania","AfricanAmer",19,13.3,93.2,12805537,5
+"802","Vulva","Female Genital System","Pennsylvania","Caucasian",271,13.3,93.2,12805537,5
+"803","Other Female Genital Organs","Female Genital System","Pennsylvania","NativeAmer",0,13.3,93.2,12805537,6
+"804","Other Female Genital Organs","Female Genital System","Pennsylvania","AfricanAmer",16,13.3,93.2,12805537,6
+"805","Other Female Genital Organs","Female Genital System","Pennsylvania","Caucasian",143,13.3,93.2,12805537,6
+"806","Other Female Genital Organs","Female Genital System","Pennsylvania","Other",0,13.3,93.2,12805537,6
+"807","Cervix Uteri","Female Genital System","Rhode Island","NativeAmer",0,13.8,94.9,1059639,0
+"808","Cervix Uteri","Female Genital System","Rhode Island","AsianAmer",0,13.8,94.9,1059639,0
+"809","Cervix Uteri","Female Genital System","Rhode Island","Caucasian",36,13.8,94.9,1059639,0
+"810","Corpus Uteri","Female Genital System","Rhode Island","NativeAmer",0,13.8,94.9,1059639,1
+"811","Corpus Uteri","Female Genital System","Rhode Island","Caucasian",165,13.8,94.9,1059639,1
+"812","Uterus, NOS","Female Genital System","Rhode Island","NativeAmer",0,13.8,94.9,1059639,2
+"813","Uterus, NOS","Female Genital System","Rhode Island","AsianAmer",0,13.8,94.9,1059639,2
+"814","Uterus, NOS","Female Genital System","Rhode Island","AfricanAmer",0,13.8,94.9,1059639,2
+"815","Uterus, NOS","Female Genital System","Rhode Island","Other",0,13.8,94.9,1059639,2
+"816","Ovary","Female Genital System","Rhode Island","NativeAmer",0,13.8,94.9,1059639,3
+"817","Ovary","Female Genital System","Rhode Island","Caucasian",61,13.8,94.9,1059639,3
+"818","Vagina","Female Genital System","Rhode Island","NativeAmer",0,13.8,94.9,1059639,4
+"819","Vagina","Female Genital System","Rhode Island","AsianAmer",0,13.8,94.9,1059639,4
+"820","Vagina","Female Genital System","Rhode Island","AfricanAmer",0,13.8,94.9,1059639,4
+"821","Vagina","Female Genital System","Rhode Island","Other",0,13.8,94.9,1059639,4
+"822","Vulva","Female Genital System","Rhode Island","NativeAmer",0,13.8,94.9,1059639,5
+"823","Vulva","Female Genital System","Rhode Island","AsianAmer",0,13.8,94.9,1059639,5
+"824","Vulva","Female Genital System","Rhode Island","AfricanAmer",0,13.8,94.9,1059639,5
+"825","Vulva","Female Genital System","Rhode Island","Caucasian",21,13.8,94.9,1059639,5
+"826","Vulva","Female Genital System","Rhode Island","Other",0,13.8,94.9,1059639,5
+"827","Other Female Genital Organs","Female Genital System","Rhode Island","NativeAmer",0,13.8,94.9,1059639,6
+"828","Other Female Genital Organs","Female Genital System","Rhode Island","AsianAmer",0,13.8,94.9,1059639,6
+"829","Other Female Genital Organs","Female Genital System","Rhode Island","Caucasian",16,13.8,94.9,1059639,6
+"830","Cervix Uteri","Female Genital System","South Carolina","NativeAmer",0,17.2,87.9,5024369,0
+"831","Cervix Uteri","Female Genital System","South Carolina","AfricanAmer",75,17.2,87.9,5024369,0
+"832","Cervix Uteri","Female Genital System","South Carolina","Caucasian",133,17.2,87.9,5024369,0
+"833","Corpus Uteri","Female Genital System","South Carolina","NativeAmer",0,17.2,87.9,5024369,1
+"834","Corpus Uteri","Female Genital System","South Carolina","AfricanAmer",215,17.2,87.9,5024369,1
+"835","Corpus Uteri","Female Genital System","South Carolina","Caucasian",535,17.2,87.9,5024369,1
+"836","Uterus, NOS","Female Genital System","South Carolina","NativeAmer",0,17.2,87.9,5024369,2
+"837","Ovary","Female Genital System","South Carolina","AfricanAmer",65,17.2,87.9,5024369,3
+"838","Ovary","Female Genital System","South Carolina","Caucasian",225,17.2,87.9,5024369,3
+"839","Vagina","Female Genital System","South Carolina","NativeAmer",0,17.2,87.9,5024369,4
+"840","Vagina","Female Genital System","South Carolina","AsianAmer",0,17.2,87.9,5024369,4
+"841","Vulva","Female Genital System","South Carolina","NativeAmer",0,17.2,87.9,5024369,5
+"842","Vulva","Female Genital System","South Carolina","AsianAmer",0,17.2,87.9,5024369,5
+"843","Vulva","Female Genital System","South Carolina","Caucasian",77,17.2,87.9,5024369,5
+"844","Vulva","Female Genital System","South Carolina","Other",0,17.2,87.9,5024369,5
+"845","Other Female Genital Organs","Female Genital System","South Carolina","NativeAmer",0,17.2,87.9,5024369,6
+"846","Other Female Genital Organs","Female Genital System","South Carolina","AsianAmer",0,17.2,87.9,5024369,6
+"847","Other Female Genital Organs","Female Genital System","South Carolina","Caucasian",35,17.2,87.9,5024369,6
+"848","Cervix Uteri","Female Genital System","South Dakota","AsianAmer",0,14,89.6,869666,0
+"849","Cervix Uteri","Female Genital System","South Dakota","Caucasian",19,14,89.6,869666,0
+"850","Corpus Uteri","Female Genital System","South Dakota","AfricanAmer",0,14,89.6,869666,1
+"851","Corpus Uteri","Female Genital System","South Dakota","Caucasian",141,14,89.6,869666,1
+"852","Corpus Uteri","Female Genital System","South Dakota","Other",0,14,89.6,869666,1
+"853","Uterus, NOS","Female Genital System","South Dakota","NativeAmer",0,14,89.6,869666,2
+"854","Uterus, NOS","Female Genital System","South Dakota","AsianAmer",0,14,89.6,869666,2
+"855","Uterus, NOS","Female Genital System","South Dakota","AfricanAmer",0,14,89.6,869666,2
+"856","Uterus, NOS","Female Genital System","South Dakota","Other",0,14,89.6,869666,2
+"857","Ovary","Female Genital System","South Dakota","AfricanAmer",0,14,89.6,869666,3
+"858","Ovary","Female Genital System","South Dakota","Caucasian",49,14,89.6,869666,3
+"859","Ovary","Female Genital System","South Dakota","Other",0,14,89.6,869666,3
+"860","Vagina","Female Genital System","South Dakota","AsianAmer",0,14,89.6,869666,4
+"861","Vagina","Female Genital System","South Dakota","AfricanAmer",0,14,89.6,869666,4
+"862","Vagina","Female Genital System","South Dakota","Other",0,14,89.6,869666,4
+"863","Vulva","Female Genital System","South Dakota","AsianAmer",0,14,89.6,869666,5
+"864","Vulva","Female Genital System","South Dakota","AfricanAmer",0,14,89.6,869666,5
+"865","Vulva","Female Genital System","South Dakota","Caucasian",24,14,89.6,869666,5
+"866","Vulva","Female Genital System","South Dakota","Other",0,14,89.6,869666,5
+"867","Other Female Genital Organs","Female Genital System","South Dakota","NativeAmer",0,14,89.6,869666,6
+"868","Other Female Genital Organs","Female Genital System","South Dakota","AsianAmer",0,14,89.6,869666,6
+"869","Other Female Genital Organs","Female Genital System","South Dakota","AfricanAmer",0,14,89.6,869666,6
+"870","Other Female Genital Organs","Female Genital System","South Dakota","Other",0,14,89.6,869666,6
+"871","Cervix Uteri","Female Genital System","Tennessee","AfricanAmer",55,17.2,89.4,6715984,0
+"872","Cervix Uteri","Female Genital System","Tennessee","Caucasian",228,17.2,89.4,6715984,0
+"873","Corpus Uteri","Female Genital System","Tennessee","AfricanAmer",130,17.2,89.4,6715984,1
+"874","Corpus Uteri","Female Genital System","Tennessee","Caucasian",867,17.2,89.4,6715984,1
+"875","Uterus, NOS","Female Genital System","Tennessee","NativeAmer",0,17.2,89.4,6715984,2
+"876","Uterus, NOS","Female Genital System","Tennessee","AsianAmer",0,17.2,89.4,6715984,2
+"877","Uterus, NOS","Female Genital System","Tennessee","Caucasian",28,17.2,89.4,6715984,2
+"878","Uterus, NOS","Female Genital System","Tennessee","Other",0,17.2,89.4,6715984,2
+"879","Ovary","Female Genital System","Tennessee","AfricanAmer",52,17.2,89.4,6715984,3
+"880","Ovary","Female Genital System","Tennessee","Caucasian",373,17.2,89.4,6715984,3
+"881","Vagina","Female Genital System","Tennessee","NativeAmer",0,17.2,89.4,6715984,4
+"882","Vagina","Female Genital System","Tennessee","AsianAmer",0,17.2,89.4,6715984,4
+"883","Vagina","Female Genital System","Tennessee","Caucasian",20,17.2,89.4,6715984,4
+"884","Vagina","Female Genital System","Tennessee","Other",0,17.2,89.4,6715984,4
+"885","Vulva","Female Genital System","Tennessee","NativeAmer",0,17.2,89.4,6715984,5
+"886","Vulva","Female Genital System","Tennessee","AsianAmer",0,17.2,89.4,6715984,5
+"887","Vulva","Female Genital System","Tennessee","Caucasian",98,17.2,89.4,6715984,5
+"888","Other Female Genital Organs","Female Genital System","Tennessee","NativeAmer",0,17.2,89.4,6715984,6
+"889","Other Female Genital Organs","Female Genital System","Tennessee","AsianAmer",0,17.2,89.4,6715984,6
+"890","Other Female Genital Organs","Female Genital System","Tennessee","Caucasian",33,17.2,89.4,6715984,6
+"891","Cervix Uteri","Female Genital System","Texas","AsianAmer",39,16.7,81.4,28304596,0
+"892","Cervix Uteri","Female Genital System","Texas","AfricanAmer",157,16.7,81.4,28304596,0
+"893","Cervix Uteri","Female Genital System","Texas","Caucasian",1026,16.7,81.4,28304596,0
+"894","Cervix Uteri","Female Genital System","Texas","Other",23,16.7,81.4,28304596,0
+"895","Corpus Uteri","Female Genital System","Texas","AsianAmer",90,16.7,81.4,28304596,1
+"896","Corpus Uteri","Female Genital System","Texas","AfricanAmer",329,16.7,81.4,28304596,1
+"897","Corpus Uteri","Female Genital System","Texas","Caucasian",2555,16.7,81.4,28304596,1
+"898","Corpus Uteri","Female Genital System","Texas","Other",35,16.7,81.4,28304596,1
+"899","Uterus, NOS","Female Genital System","Texas","AfricanAmer",36,16.7,81.4,28304596,2
+"900","Uterus, NOS","Female Genital System","Texas","Caucasian",162,16.7,81.4,28304596,2
+"901","Ovary","Female Genital System","Texas","AsianAmer",48,16.7,81.4,28304596,3
+"902","Ovary","Female Genital System","Texas","AfricanAmer",149,16.7,81.4,28304596,3
+"903","Ovary","Female Genital System","Texas","Caucasian",1299,16.7,81.4,28304596,3
+"904","Vagina","Female Genital System","Texas","NativeAmer",0,16.7,81.4,28304596,4
+"905","Vagina","Female Genital System","Texas","AsianAmer",0,16.7,81.4,28304596,4
+"906","Vagina","Female Genital System","Texas","Caucasian",76,16.7,81.4,28304596,4
+"907","Vulva","Female Genital System","Texas","NativeAmer",0,16.7,81.4,28304596,5
+"908","Vulva","Female Genital System","Texas","AfricanAmer",16,16.7,81.4,28304596,5
+"909","Vulva","Female Genital System","Texas","Caucasian",214,16.7,81.4,28304596,5
+"910","Other Female Genital Organs","Female Genital System","Texas","NativeAmer",0,16.7,81.4,28304596,6
+"911","Other Female Genital Organs","Female Genital System","Texas","Caucasian",111,16.7,81.4,28304596,6
+"912","Cervix Uteri","Female Genital System","Utah","AfricanAmer",0,11.7,90.3,3101833,0
+"913","Cervix Uteri","Female Genital System","Utah","Caucasian",61,11.7,90.3,3101833,0
+"914","Cervix Uteri","Female Genital System","Utah","Other",0,11.7,90.3,3101833,0
+"915","Corpus Uteri","Female Genital System","Utah","Caucasian",348,11.7,90.3,3101833,1
+"916","Uterus, NOS","Female Genital System","Utah","NativeAmer",0,11.7,90.3,3101833,2
+"917","Uterus, NOS","Female Genital System","Utah","AsianAmer",0,11.7,90.3,3101833,2
+"918","Uterus, NOS","Female Genital System","Utah","AfricanAmer",0,11.7,90.3,3101833,2
+"919","Uterus, NOS","Female Genital System","Utah","Other",0,11.7,90.3,3101833,2
+"920","Ovary","Female Genital System","Utah","NativeAmer",0,11.7,90.3,3101833,3
+"921","Ovary","Female Genital System","Utah","AfricanAmer",0,11.7,90.3,3101833,3
+"922","Ovary","Female Genital System","Utah","Caucasian",152,11.7,90.3,3101833,3
+"923","Ovary","Female Genital System","Utah","Other",0,11.7,90.3,3101833,3
+"924","Vagina","Female Genital System","Utah","NativeAmer",0,11.7,90.3,3101833,4
+"925","Vagina","Female Genital System","Utah","AsianAmer",0,11.7,90.3,3101833,4
+"926","Vagina","Female Genital System","Utah","AfricanAmer",0,11.7,90.3,3101833,4
+"927","Vagina","Female Genital System","Utah","Other",0,11.7,90.3,3101833,4
+"928","Vulva","Female Genital System","Utah","NativeAmer",0,11.7,90.3,3101833,5
+"929","Vulva","Female Genital System","Utah","AsianAmer",0,11.7,90.3,3101833,5
+"930","Vulva","Female Genital System","Utah","AfricanAmer",0,11.7,90.3,3101833,5
+"931","Vulva","Female Genital System","Utah","Caucasian",25,11.7,90.3,3101833,5
+"932","Vulva","Female Genital System","Utah","Other",0,11.7,90.3,3101833,5
+"933","Other Female Genital Organs","Female Genital System","Utah","NativeAmer",0,11.7,90.3,3101833,6
+"934","Other Female Genital Organs","Female Genital System","Utah","AfricanAmer",0,11.7,90.3,3101833,6
+"935","Other Female Genital Organs","Female Genital System","Utah","Other",0,11.7,90.3,3101833,6
+"936","Cervix Uteri","Female Genital System","Vermont","NativeAmer",0,11.6,95.3,623657,0
+"937","Cervix Uteri","Female Genital System","Vermont","AsianAmer",0,11.6,95.3,623657,0
+"938","Cervix Uteri","Female Genital System","Vermont","Other",0,11.6,95.3,623657,0
+"939","Corpus Uteri","Female Genital System","Vermont","NativeAmer",0,11.6,95.3,623657,1
+"940","Corpus Uteri","Female Genital System","Vermont","AsianAmer",0,11.6,95.3,623657,1
+"941","Corpus Uteri","Female Genital System","Vermont","Caucasian",159,11.6,95.3,623657,1
+"942","Corpus Uteri","Female Genital System","Vermont","Other",0,11.6,95.3,623657,1
+"943","Uterus, NOS","Female Genital System","Vermont","NativeAmer",0,11.6,95.3,623657,2
+"944","Uterus, NOS","Female Genital System","Vermont","AsianAmer",0,11.6,95.3,623657,2
+"945","Uterus, NOS","Female Genital System","Vermont","AfricanAmer",0,11.6,95.3,623657,2
+"946","Uterus, NOS","Female Genital System","Vermont","Other",0,11.6,95.3,623657,2
+"947","Ovary","Female Genital System","Vermont","NativeAmer",0,11.6,95.3,623657,3
+"948","Ovary","Female Genital System","Vermont","AfricanAmer",0,11.6,95.3,623657,3
+"949","Ovary","Female Genital System","Vermont","Caucasian",44,11.6,95.3,623657,3
+"950","Ovary","Female Genital System","Vermont","Other",0,11.6,95.3,623657,3
+"951","Vagina","Female Genital System","Vermont","NativeAmer",0,11.6,95.3,623657,4
+"952","Vagina","Female Genital System","Vermont","AsianAmer",0,11.6,95.3,623657,4
+"953","Vagina","Female Genital System","Vermont","AfricanAmer",0,11.6,95.3,623657,4
+"954","Vagina","Female Genital System","Vermont","Caucasian",0,11.6,95.3,623657,4
+"955","Vagina","Female Genital System","Vermont","Other",0,11.6,95.3,623657,4
+"956","Vulva","Female Genital System","Vermont","NativeAmer",0,11.6,95.3,623657,5
+"957","Vulva","Female Genital System","Vermont","AsianAmer",0,11.6,95.3,623657,5
+"958","Vulva","Female Genital System","Vermont","AfricanAmer",0,11.6,95.3,623657,5
+"959","Vulva","Female Genital System","Vermont","Other",0,11.6,95.3,623657,5
+"960","Other Female Genital Organs","Female Genital System","Vermont","NativeAmer",0,11.6,95.3,623657,6
+"961","Other Female Genital Organs","Female Genital System","Vermont","AsianAmer",0,11.6,95.3,623657,6
+"962","Other Female Genital Organs","Female Genital System","Vermont","AfricanAmer",0,11.6,95.3,623657,6
+"963","Other Female Genital Organs","Female Genital System","Vermont","Other",0,11.6,95.3,623657,6
+"964","Cervix Uteri","Female Genital System","Virginia","AfricanAmer",65,11.4,90.1,8470020,0
+"965","Cervix Uteri","Female Genital System","Virginia","Caucasian",166,11.4,90.1,8470020,0
+"966","Cervix Uteri","Female Genital System","Virginia","Other",16,11.4,90.1,8470020,0
+"967","Corpus Uteri","Female Genital System","Virginia","AsianAmer",57,11.4,90.1,8470020,1
+"968","Corpus Uteri","Female Genital System","Virginia","AfricanAmer",240,11.4,90.1,8470020,1
+"969","Corpus Uteri","Female Genital System","Virginia","Caucasian",925,11.4,90.1,8470020,1
+"970","Corpus Uteri","Female Genital System","Virginia","Other",77,11.4,90.1,8470020,1
+"971","Uterus, NOS","Female Genital System","Virginia","NativeAmer",0,11.4,90.1,8470020,2
+"972","Uterus, NOS","Female Genital System","Virginia","AfricanAmer",21,11.4,90.1,8470020,2
+"973","Uterus, NOS","Female Genital System","Virginia","Caucasian",27,11.4,90.1,8470020,2
+"974","Ovary","Female Genital System","Virginia","AsianAmer",23,11.4,90.1,8470020,3
+"975","Ovary","Female Genital System","Virginia","AfricanAmer",84,11.4,90.1,8470020,3
+"976","Ovary","Female Genital System","Virginia","Caucasian",430,11.4,90.1,8470020,3
+"977","Vagina","Female Genital System","Virginia","NativeAmer",0,11.4,90.1,8470020,4
+"978","Vagina","Female Genital System","Virginia","Caucasian",26,11.4,90.1,8470020,4
+"979","Vulva","Female Genital System","Virginia","NativeAmer",0,11.4,90.1,8470020,5
+"980","Vulva","Female Genital System","Virginia","Caucasian",94,11.4,90.1,8470020,5
+"981","Other Female Genital Organs","Female Genital System","Virginia","Caucasian",58,11.4,90.1,8470020,6
+"982","Cervix Uteri","Female Genital System","Washington","AsianAmer",26,12.7,93.1,7405743,0
+"983","Cervix Uteri","Female Genital System","Washington","Caucasian",194,12.7,93.1,7405743,0
+"984","Cervix Uteri","Female Genital System","Washington","Other",0,12.7,93.1,7405743,0
+"985","Corpus Uteri","Female Genital System","Washington","NativeAmer",18,12.7,93.1,7405743,1
+"986","Corpus Uteri","Female Genital System","Washington","AsianAmer",66,12.7,93.1,7405743,1
+"987","Corpus Uteri","Female Genital System","Washington","AfricanAmer",32,12.7,93.1,7405743,1
+"988","Corpus Uteri","Female Genital System","Washington","Caucasian",988,12.7,93.1,7405743,1
+"989","Uterus, NOS","Female Genital System","Washington","NativeAmer",0,12.7,93.1,7405743,2
+"990","Uterus, NOS","Female Genital System","Washington","Caucasian",17,12.7,93.1,7405743,2
+"991","Uterus, NOS","Female Genital System","Washington","Other",0,12.7,93.1,7405743,2
+"992","Ovary","Female Genital System","Washington","AsianAmer",33,12.7,93.1,7405743,3
+"993","Ovary","Female Genital System","Washington","Caucasian",423,12.7,93.1,7405743,3
+"994","Vagina","Female Genital System","Washington","NativeAmer",0,12.7,93.1,7405743,4
+"995","Vagina","Female Genital System","Washington","AfricanAmer",0,12.7,93.1,7405743,4
+"996","Vagina","Female Genital System","Washington","Caucasian",34,12.7,93.1,7405743,4
+"997","Vagina","Female Genital System","Washington","Other",0,12.7,93.1,7405743,4
+"998","Vulva","Female Genital System","Washington","Caucasian",110,12.7,93.1,7405743,5
+"999","Vulva","Female Genital System","Washington","Other",0,12.7,93.1,7405743,5
+"1000","Other Female Genital Organs","Female Genital System","Washington","Caucasian",85,12.7,93.1,7405743,6
+"1001","Cervix Uteri","Female Genital System","West Virginia","NativeAmer",0,17.7,93.5,1815857,0
+"1002","Cervix Uteri","Female Genital System","West Virginia","AsianAmer",0,17.7,93.5,1815857,0
+"1003","Cervix Uteri","Female Genital System","West Virginia","AfricanAmer",0,17.7,93.5,1815857,0
+"1004","Cervix Uteri","Female Genital System","West Virginia","Caucasian",72,17.7,93.5,1815857,0
+"1005","Corpus Uteri","Female Genital System","West Virginia","Caucasian",376,17.7,93.5,1815857,1
+"1006","Uterus, NOS","Female Genital System","West Virginia","NativeAmer",0,17.7,93.5,1815857,2
+"1007","Uterus, NOS","Female Genital System","West Virginia","AsianAmer",0,17.7,93.5,1815857,2
+"1008","Uterus, NOS","Female Genital System","West Virginia","Caucasian",16,17.7,93.5,1815857,2
+"1009","Ovary","Female Genital System","West Virginia","NativeAmer",0,17.7,93.5,1815857,3
+"1010","Ovary","Female Genital System","West Virginia","AsianAmer",0,17.7,93.5,1815857,3
+"1011","Ovary","Female Genital System","West Virginia","Caucasian",156,17.7,93.5,1815857,3
+"1012","Ovary","Female Genital System","West Virginia","Other",0,17.7,93.5,1815857,3
+"1013","Vagina","Female Genital System","West Virginia","NativeAmer",0,17.7,93.5,1815857,4
+"1014","Vagina","Female Genital System","West Virginia","AsianAmer",0,17.7,93.5,1815857,4
+"1015","Vagina","Female Genital System","West Virginia","AfricanAmer",0,17.7,93.5,1815857,4
+"1016","Vagina","Female Genital System","West Virginia","Other",0,17.7,93.5,1815857,4
+"1017","Vulva","Female Genital System","West Virginia","NativeAmer",0,17.7,93.5,1815857,5
+"1018","Vulva","Female Genital System","West Virginia","AsianAmer",0,17.7,93.5,1815857,5
+"1019","Vulva","Female Genital System","West Virginia","Caucasian",50,17.7,93.5,1815857,5
+"1020","Vulva","Female Genital System","West Virginia","Other",0,17.7,93.5,1815857,5
+"1021","Other Female Genital Organs","Female Genital System","West Virginia","NativeAmer",0,17.7,93.5,1815857,6
+"1022","Other Female Genital Organs","Female Genital System","West Virginia","AsianAmer",0,17.7,93.5,1815857,6
+"1023","Other Female Genital Organs","Female Genital System","West Virginia","AfricanAmer",0,17.7,93.5,1815857,6
+"1024","Other Female Genital Organs","Female Genital System","West Virginia","Other",0,17.7,93.5,1815857,6
+"1025","Cervix Uteri","Female Genital System","Wisconsin","AfricanAmer",27,12.7,93.7,5795483,0
+"1026","Cervix Uteri","Female Genital System","Wisconsin","Caucasian",176,12.7,93.7,5795483,0
+"1027","Corpus Uteri","Female Genital System","Wisconsin","AfricanAmer",50,12.7,93.7,5795483,1
+"1028","Corpus Uteri","Female Genital System","Wisconsin","Caucasian",1118,12.7,93.7,5795483,1
+"1029","Uterus, NOS","Female Genital System","Wisconsin","NativeAmer",0,12.7,93.7,5795483,2
+"1030","Uterus, NOS","Female Genital System","Wisconsin","Caucasian",35,12.7,93.7,5795483,2
+"1031","Ovary","Female Genital System","Wisconsin","NativeAmer",0,12.7,93.7,5795483,3
+"1032","Ovary","Female Genital System","Wisconsin","Caucasian",396,12.7,93.7,5795483,3
+"1033","Vagina","Female Genital System","Wisconsin","NativeAmer",0,12.7,93.7,5795483,4
+"1034","Vagina","Female Genital System","Wisconsin","AsianAmer",0,12.7,93.7,5795483,4
+"1035","Vagina","Female Genital System","Wisconsin","AfricanAmer",0,12.7,93.7,5795483,4
+"1036","Vagina","Female Genital System","Wisconsin","Caucasian",16,12.7,93.7,5795483,4
+"1037","Vagina","Female Genital System","Wisconsin","Other",0,12.7,93.7,5795483,4
+"1038","Vulva","Female Genital System","Wisconsin","NativeAmer",0,12.7,93.7,5795483,5
+"1039","Vulva","Female Genital System","Wisconsin","AsianAmer",0,12.7,93.7,5795483,5
+"1040","Vulva","Female Genital System","Wisconsin","AfricanAmer",0,12.7,93.7,5795483,5
+"1041","Vulva","Female Genital System","Wisconsin","Caucasian",106,12.7,93.7,5795483,5
+"1042","Vulva","Female Genital System","Wisconsin","Other",0,12.7,93.7,5795483,5
+"1043","Other Female Genital Organs","Female Genital System","Wisconsin","NativeAmer",0,12.7,93.7,5795483,6
+"1044","Other Female Genital Organs","Female Genital System","Wisconsin","AsianAmer",0,12.7,93.7,5795483,6
+"1045","Other Female Genital Organs","Female Genital System","Wisconsin","Caucasian",45,12.7,93.7,5795483,6
+"1046","Other Female Genital Organs","Female Genital System","Wisconsin","Other",0,12.7,93.7,5795483,6
+"1047","Cervix Uteri","Female Genital System","Wyoming","NativeAmer",0,11.6,86.6,579315,0
+"1048","Cervix Uteri","Female Genital System","Wyoming","AsianAmer",0,11.6,86.6,579315,0
+"1049","Cervix Uteri","Female Genital System","Wyoming","AfricanAmer",0,11.6,86.6,579315,0
+"1050","Cervix Uteri","Female Genital System","Wyoming","Other",0,11.6,86.6,579315,0
+"1051","Corpus Uteri","Female Genital System","Wyoming","AsianAmer",0,11.6,86.6,579315,1
+"1052","Corpus Uteri","Female Genital System","Wyoming","Caucasian",78,11.6,86.6,579315,1
+"1053","Corpus Uteri","Female Genital System","Wyoming","Other",0,11.6,86.6,579315,1
+"1054","Uterus, NOS","Female Genital System","Wyoming","NativeAmer",0,11.6,86.6,579315,2
+"1055","Uterus, NOS","Female Genital System","Wyoming","AsianAmer",0,11.6,86.6,579315,2
+"1056","Uterus, NOS","Female Genital System","Wyoming","AfricanAmer",0,11.6,86.6,579315,2
+"1057","Uterus, NOS","Female Genital System","Wyoming","Other",0,11.6,86.6,579315,2
+"1058","Ovary","Female Genital System","Wyoming","NativeAmer",0,11.6,86.6,579315,3
+"1059","Ovary","Female Genital System","Wyoming","AsianAmer",0,11.6,86.6,579315,3
+"1060","Ovary","Female Genital System","Wyoming","AfricanAmer",0,11.6,86.6,579315,3
+"1061","Ovary","Female Genital System","Wyoming","Caucasian",39,11.6,86.6,579315,3
+"1062","Ovary","Female Genital System","Wyoming","Other",0,11.6,86.6,579315,3
+"1063","Vagina","Female Genital System","Wyoming","NativeAmer",0,11.6,86.6,579315,4
+"1064","Vagina","Female Genital System","Wyoming","AsianAmer",0,11.6,86.6,579315,4
+"1065","Vagina","Female Genital System","Wyoming","AfricanAmer",0,11.6,86.6,579315,4
+"1066","Vagina","Female Genital System","Wyoming","Caucasian",0,11.6,86.6,579315,4
+"1067","Vagina","Female Genital System","Wyoming","Other",0,11.6,86.6,579315,4
+"1068","Vulva","Female Genital System","Wyoming","NativeAmer",0,11.6,86.6,579315,5
+"1069","Vulva","Female Genital System","Wyoming","AsianAmer",0,11.6,86.6,579315,5
+"1070","Vulva","Female Genital System","Wyoming","AfricanAmer",0,11.6,86.6,579315,5
+"1071","Vulva","Female Genital System","Wyoming","Other",0,11.6,86.6,579315,5
+"1072","Other Female Genital Organs","Female Genital System","Wyoming","NativeAmer",0,11.6,86.6,579315,6
+"1073","Other Female Genital Organs","Female Genital System","Wyoming","AsianAmer",0,11.6,86.6,579315,6
+"1074","Other Female Genital Organs","Female Genital System","Wyoming","AfricanAmer",0,11.6,86.6,579315,6
+"1075","Other Female Genital Organs","Female Genital System","Wyoming","Other",0,11.6,86.6,579315,6
