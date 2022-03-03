@@ -1,0 +1,28 @@
+# Load package
+library(tidyverse)
+
+# Making dataset wide to long
+
+glimpse(CancerCombinedFile3)
+
+colnames(CancerCombinedFile3)[1] <- 'Percentage population below poverty'
+summary(CancerCombinedFile3)
+
+glimpse(CancerCombinedFile3)
+glimpse(CancerCombinedFile3)
+types <- 'nccccnnnn'
+glimpse(CancerCombinedFile3)
+
+CancerCombinedFile3 <- cols(
+  'Percentage population below poverty' = col_character(),
+  Name = col_character(),
+  Category = col_character(),
+  State_name = col_character(),
+  Race_name = col_character(),
+  Count = col_number(),
+  'Percentage population insured' = col_number(),
+  Population = col_number()
+)
+
+head(CancerCombinedFile3)
+glimpse(CancerCombinedFile3)
