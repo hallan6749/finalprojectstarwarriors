@@ -18,12 +18,12 @@
 
 ## :medal_military: Question 2 contributing data @hallan6749 You can add your link to your files here and paste your data colloge under this line.
 
-![This is an image]( )
+![This is an image]()
 
 
-## :medal_military: Question 3 contributing data @tthopkins03 You can add your link to your files here and paste your data colloge under this line.
+## :medal_military: Question 3 - Is there a coorelation between the Percent Population Below Poverty to State for the seven cancer diagnosis?
 
-![This is an image]( )
+![Talia's Branch](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Talia-branch/Graph%201%20T%20Hopkins%20final%20project.png)
 
 ## :medal_military: Question 4 contributing data @ValSal81 You can add your link to your files here and paste your data colloge under this line.
 
