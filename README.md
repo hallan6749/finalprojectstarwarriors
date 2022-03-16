@@ -25,9 +25,9 @@
 
 ![Talia's Branch](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Talia-branch/Graph%201%20T%20Hopkins%20final%20project.png)
 
-## :medal_military: Question 4 contributing data @ValSal81 You can add your link to your files here and paste your data colloge under this line.
+## :medal_military: Question 4 contributing data @ValSal81 Question 4 - Does race have any influence on the percentage of the population below poverty?
 
-![This is an image]( )
+![Valerie's Branch](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Valerie-branch/racevspoverty.jpg)
 
 ## :medal_military: Question 5 contributing data @taygurl86 You can add your link to your files here and paste your data colloge under this line.
 
