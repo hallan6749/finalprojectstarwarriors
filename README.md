@@ -21,14 +21,19 @@
 ![This is an image]()
 
 
-## :medal_military: Question 3 - Is there a coorelation between the Percent Population Below Poverty to State for the seven cancer diagnosis?
+## :medal_military: Question 3 by Talia - Is there a coorelation between the Percent Population Below Poverty to State for the seven cancer diagnosis?
 
 ![Talia's Branch](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Talia-branch/Graph%201%20T%20Hopkins%20final%20project.png)
+![Talia's Branch](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Talia-branch/state1png.png)
+![Talia's Branch](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Talia-branch/state2png.png)
 
-## :medal_military: Question 4 contributing data @ValSal81 Question 4 - Does race have any influence on the percentage of the population below poverty?
+## :medal_military: Question 4 by Valerie - Does race have any influence on the percentage of the population below poverty?
 
 ![Valerie's Branch](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Valerie-branch/racevspoverty.jpg)
 
-## :medal_military: Question 5 contributing data @taygurl86 You can add your link to your files here and paste your data colloge under this line.
+## :medal_military: Question 5 by Whitney - Which state has the highest female cancer level according to the percentage of the population below poverty?
 
-![This is an image]( )
+![Whitney's Branch](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Whitney-branch/Whitneypic1.png)
+![Whitney's Branch](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Whitney-branch/Whitneypic2.png)
+
+
