@@ -2,10 +2,10 @@
 > # :writing_hand:	Final Project Star Warriors :writing_hand:	
   ## Star Warriors: 
      - Alison Schnoes
-     - Whitney Taylor
      - Talia Hopkins
      - Tameka Gillett
      - Valerie Salazar
+     - Whitney Taylor
      
   ## Instructor / Mentors: 
      - Joseph Raetano
