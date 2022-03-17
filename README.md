@@ -16,9 +16,10 @@
 
 ![This is an image](https://github.com/hallan6749/finalprojectstarwarriors/blob/909653128c7fd51de0dd03a8990e7dbdd512b010/Tameka-branch/Screenshot%202022-03-11%20203639.png)
 
-## :medal_military: Question 2 contributing data @hallan6749 You can add your link to your files here and paste your data colloge under this line.
+## :medal_military: Question 2 by Alison - Which race has the highest female cancer health concerns compared to the total population?
 
-![This is an image]()
+![Alison's Branch](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Alison%20branch/PNF%20files/ComboPic1.png)
+![Alison's Branch](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Alison%20branch/PNF%20files/ComboPic2.png)
 
 
 ## :medal_military: Question 3 by Talia - Is there a coorelation between the Percent Population Below Poverty to State for the seven cancer diagnosis?
@@ -33,7 +34,7 @@
 
 ## :medal_military: Question 5 by Whitney - Which state has the highest female cancer level according to the percentage of the population below poverty?
 
-![Whitney's Branch](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Whitney-branch/Whitneypic1.png)
-![Whitney's Branch](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Whitney-branch/Whitneypic2.png)
+![Whitney's Branch](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Whitney%20branch/Whitney%20PNG%20folder/Whitneypic1.png)
+![Whitney's Branch](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Whitney%20branch/Whitney%20PNG%20folder/Whitneypic2.png)
 
 
