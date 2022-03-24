@@ -16,23 +16,26 @@
 
 ![This is an image](https://github.com/hallan6749/finalprojectstarwarriors/blob/909653128c7fd51de0dd03a8990e7dbdd512b010/Tameka-branch/Screenshot%202022-03-11%20203639.png)
 
-## :medal_military: Question 2 by Alison - Which race has the highest female cancer health concerns compared to the total population?
+## :medal_military: - Which race has the highest female cancer health concerns compared to the total population?
+## Question 2 by Alison contributing data [Alison's Branch](https://github.com/hallan6749/finalprojectstarwarriors/tree/main/Alison%20branch)
 
 ![Alison's Branch](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Alison%20branch/PNF%20files/ComboPic1.png)
 ![Alison's Branch](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Alison%20branch/PNF%20files/ComboPic2.png)
 
 
-## :medal_military: Question 3 by Talia - Is there a coorelation between the Percent Population Below Poverty to State for the seven cancer diagnosis?
+## :medal_military: - Is there a coorelation between the Percent Population Below Poverty to State for the seven cancer diagnosis?
+## Question 3 by Talia contributing data [Talia's Branch](https://github.com/hallan6749/finalprojectstarwarriors/tree/main/Talia-branch)
 
-![Talia's Branch](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Talia-branch/Graph%201%20T%20Hopkins%20final%20project.png)
 ![Talia's Branch](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Talia-branch/state1png.png)
 ![Talia's Branch](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Talia-branch/state2png.png)
 
-## :medal_military: Question 4 by Valerie - Does race have any influence on the percentage of the population below poverty?
+## :medal_military: - Does race have any influence on the percentage of the population below poverty?
+## Question 4 by Valerie contributing data [Valerie's Branch](https://github.com/hallan6749/finalprojectstarwarriors/tree/main/Valerie-branch)
 
 ![Valerie's Branch](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Valerie-branch/racevspoverty.jpg)
 
-## :medal_military: Question 5 by Whitney - Which state has the highest female cancer level according to the percentage of the population below poverty?
+## :medal_military: - Which state has the highest female cancer level according to the percentage of the population below poverty?
+## Question 5 by Whitney contributing data [Whitney's Branch](https://github.com/hallan6749/finalprojectstarwarriors/tree/main/Whitney%20branch)
 
 ![Whitney's Branch](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Whitney%20branch/Whitney%20PNG%20folder/Whitneypic1.png)
 ![Whitney's Branch](https://github.com/hallan6749/finalprojectstarwarriors/blob/main/Whitney%20branch/Whitney%20PNG%20folder/Whitneypic2.png)
